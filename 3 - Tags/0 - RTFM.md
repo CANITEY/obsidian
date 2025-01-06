@@ -1,1 +1,1 @@
-this folder is the best friend for navigating the networkS
+this folder is the best friend for navigating the network
