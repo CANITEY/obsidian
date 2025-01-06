@@ -1,0 +1,1 @@
+this folder is used to store insights (info you gathered) from material you consume, you may make subfolders for videos, books, etc
