@@ -1,1 +1,1 @@
-here you gather the notes within the tag and give them a logical structure, all notes in a certain tag will appear here, just give them a logical way to understand why are they
+here you gather the notes within the tag and give them a logical structure, all notes in a certain tag will appear here, just give them a logical way to understand why are they here
