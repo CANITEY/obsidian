@@ -1,1 +1,1 @@
-this folder is the best friend for navigating the network
+this folder is the best friend for navigating the network, at normal you don't store tags, but you can create empty notes as tags that reference to all notes having that 
