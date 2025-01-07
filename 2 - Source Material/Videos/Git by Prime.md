@@ -101,7 +101,7 @@ reading this will output the commit message, at the start of the commit message 
 
 
 
-# Appendex
+# Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
 *tree*, is a directory in git having all your files as blobs ^d837e9
