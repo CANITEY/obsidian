@@ -109,7 +109,7 @@ used to set a key:value
 #### unset
 used to remove a key
 #### remove-section
-is used to remove the whole [[#^fea776|section]], with key:value in git config
+is used to remove the whole [[#^fea776|section]], with key:value pairs from git config
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
