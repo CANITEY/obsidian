@@ -137,7 +137,9 @@ this allow you to merge branches together, by using `git merge <branch>` this wi
 
 ### Merge types
 ### Fast forward 
-is the first merge type when your new branch has commits, and the old branch is still at the same state when you branched from it, so git will only move your new branch commits infront of the old branc you branched from
+is the first merge type when your new branch has commits, and the old branch is still at the same state when you branched from it, so git will only move your new branch commits infront of the old branch you branched from
+
+## Rebasing
 
 
 
