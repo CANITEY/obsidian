@@ -116,9 +116,19 @@ a branch in git is where you are working, making a new branch it will make a cop
 
 all branching operations are done through `branch` subcommand, in this subcommand you have lots of things to do
 ```
-w/o flags : creates a new bra
+w/o flags : creates a new branch
 -m : to rename a branch
 ```
+
+
+there
+
+
+
+
+
+
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
