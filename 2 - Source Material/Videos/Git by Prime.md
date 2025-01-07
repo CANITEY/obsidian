@@ -100,6 +100,14 @@ if you try to read a file using regular cat, you won't be able, so git gives you
 reading this will output the commit message, at the start of the commit message you will notice [[#^d837e9|tree]] with a hash (tree id) using the same command above it will show you the tree with its [[#^c14f87|blobls]], with each blob having an id as well, use the same command again will show you the content of the blob
 
 
+### config 
+#### get
+used to get a value of a key
+#### add
+used to set a value
+#### unset
+used to remove a value
+
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
