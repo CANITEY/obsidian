@@ -96,5 +96,9 @@ all data in .git are just files, commits, current branch, where the [[#^5b1ad8|p
 
 you commits are objects and saved in `.git/objects/` directory, in order for git to save all your files, it compresses them into raw bytes format
 
+if you try to read a file using regular cat, you won't be able, so git gives you a plumbing command `git cat-file -p <commit id>` which will allow you to read commits files
+
+
+
 
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
