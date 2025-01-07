@@ -68,4 +68,4 @@ git add <file> # adds a file to git working directory, so get can check on it, a
 committing means that all staged file (staged files not just tracked) will be saved as a snapshot to view, get back to if any thing gone wrong
 
 you can commit using `git commit` this will open an editor to write a message, 
-**Messages** must be verbose with one line title, and a verbose description of what you have done in this commit, to tell future-you and your friends, why did you add a crypto-mining malware to the coffee-machine softwar
+**Messages** must be verbose with one line title, and a verbose description of what you have done in this commit, to tell future-you and your friends, why did you add a crypto-mining malware to the coffee-machine software

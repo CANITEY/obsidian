@@ -4,5 +4,7 @@
   "attachmentFolderPath": "7 - Attachments",
   "vimMode": true,
   "foldIndent": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "livePreview": false,
+  "readableLineLength": false
 }
