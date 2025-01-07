@@ -97,9 +97,14 @@ all data in .git are just files, commits, current branch, where the [[#^5b1ad8|p
 you commits are objects and saved in `.git/objects/` directory, in order for git to save all your commits, it compresses them into raw bytes format
 
 if you try to read a file using regular cat, you won't be able, so git gives you a plumbing command `git cat-file -p <commit id>` which will allow you to read commit file
-reading this will output the commit message, at the start of the commit message you will notice tree with a hash (tree id)
+reading this will output the commit message, at the start of the commit message you will notice [[#^d837e9|tree]] with a hash (tree id) using the same command above it will show you the tree with its [[#^c14f87|blobls]], with each blob having an id as well, use the same command again will show you the content of the blob
 
 
 
 
+# Appendex
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
+
+*tree*, is a directory in get having all your files as blobs ^d837e9
+
+*blob* is a file in get  ^c14f87
