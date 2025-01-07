@@ -132,6 +132,8 @@ use these flags with log to change how it is shown to you
 --graph # will show the log as a graph
 ```
 
+## Merging
+
 
 
 
