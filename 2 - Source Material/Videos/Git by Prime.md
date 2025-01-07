@@ -84,3 +84,6 @@ you can log using `git log`, some useful flags would be
 --oneline # makes the log compact
 --graph # shows a graph for the commits, helps to see branching and merging
 ```
+
+### Commit hashes
+every commit has a unique hash id which lets you interact with the commit without conflicting with other c
