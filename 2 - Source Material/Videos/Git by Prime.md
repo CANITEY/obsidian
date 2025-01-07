@@ -113,6 +113,12 @@ is used to remove the whole [[#^fea776|section]], with key:value pairs from git 
 
 ## Branching
 a branch in git is where you are working, making a new branch it will make a copy of the branch you are standing on, so you can work on it without damaging the main branch
+
+all branching operations are done through `branch` subcommand, in this subcommand you have lots of things to do
+```
+w/o flags : creates a new bra
+-m : to rename a branch
+```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
