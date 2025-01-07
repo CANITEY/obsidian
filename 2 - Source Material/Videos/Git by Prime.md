@@ -108,7 +108,8 @@ used to get a value of a key
 used to set a key:value
 #### unset
 used to remove a key
-
+#### remove-section
+is used to remove the whole [[#^fea776|section]] in git config
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
@@ -116,3 +117,5 @@ used to remove a key
 *tree*, is a directory in git having all your files as blobs ^d837e9
 
 *blob* is a file in get  ^c14f87
+
+*section*, is a place in config file that includes key:value pairs ^fea776
