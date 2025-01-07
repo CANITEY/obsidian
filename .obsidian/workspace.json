@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffbf897e867c7039",
+        "id": "ebe3d40b345e4522",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf1296aa1c706f7",
+            "id": "632cb050e6fe09b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -155,7 +156,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bf1296aa1c706f7",
+  "active": "632cb050e6fe09b1",
   "lastOpenFiles": [
-    "5 - Templates/Source Material.md",
     "2 - Source Material/Videos/Git by Prime.md",
+    "5 - Templates/Source Material.md",
     "6 - Main Notes/ss.md",
     "1 - Rough Notes/test.md",
     "5 - Templates/Main Note.md",

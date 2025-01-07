@@ -25,5 +25,14 @@ date: 2025-01-06 22:21
 - `git hash-object`
 ```
 
+## Quick config
+you can config git using this command `git config` all what comes after it just flags to till it what to configure and where.
+
+you can use `git config` with some common flags:
+```
+--get <property> # --get user.na
+```
+
+
 
 
