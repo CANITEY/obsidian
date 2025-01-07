@@ -30,7 +30,9 @@ you can config git using this command `git config` all what comes after it just 
 
 you can use `git config` with some common flags:
 ```
---get <property> # --get user.na
+--get <property> # --get user.name # used to get the property value
+--add <property> <value> # --add user.name canitey # used to set the propery value
+--global <other flags> # used to get/set property in the glo
 ```
 
 
