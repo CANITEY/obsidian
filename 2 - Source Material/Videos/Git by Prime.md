@@ -6,7 +6,8 @@ date: 2025-01-06 22:21
 # References
 - [YouTube video](https://www.youtube.com/watch?v=rH3zE7VlIMs)
 # Git by Prime
-## Porcelain and Plumbing
+## Setup
+### Porcelain and Plumbing
 **porcelain** is the high level commands in git, you are will interact with them most of the  time
 *Example*
 ```
@@ -25,7 +26,7 @@ date: 2025-01-06 22:21
 - `git hash-object`
 ```
 
-## Quick config
+### Quick config
 you can config git using this command `git config` all what comes after it just flags to till it what to configure and where.
 
 you can use `git config` with some common flags:
@@ -41,6 +42,10 @@ you can use `git config` with some common flags:
 --unset <property> # used to unset the first property value
 ```
 
+
+## Repositories
+repositories are the core of projects, every project would have one repo, which is a .git file in your project direct
+### config
 
 
 
