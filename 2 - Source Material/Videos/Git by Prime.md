@@ -1,0 +1,29 @@
+---
+tags: 
+date: 2025-01-06 22:21
+---
+
+# References
+- [YouTube video](https://www.youtube.com/watch?v=rH3zE7VlIMs)
+# Git by Prime
+## Porcelain and Plumbing
+**porcelain** is the high level commands in git, you are will interact with them most of the  time
+*Example*
+```
+- `git status`
+- `git add`
+- `git commit`
+- `git push`
+- `git pull`
+- `git log`
+```
+**plumbing** is a low level commands
+*Examples*
+```
+- `git apply`
+- `git commit-tree`
+- `git hash-object`
+```
+
+
+
