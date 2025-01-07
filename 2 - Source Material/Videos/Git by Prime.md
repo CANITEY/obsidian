@@ -32,7 +32,7 @@ you can use `git config` with some common flags:
 ```
 --get <property> # --get user.name # used to get the property value
 --add <property> <value> # --add user.name canitey # used to set the propery value
---global <other flags> # used to get/set property in the glo
+--global <other flags> # used to get/set property in the global space `~/.gitconfig`
 ```
 
 
