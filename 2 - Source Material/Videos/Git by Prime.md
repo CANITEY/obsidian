@@ -92,6 +92,9 @@ every commit has a unique hash id which lets you interact with the commit withou
 hashes may differ from a user to another user
 
 ### Some plumbing
-all data in .git are just files, commits, current branch, where the pointer pointing
+all data in .git are just files, commits, current branch, where the [[#^5b1ad8|pointer]] pointing
 
-*pointer*, is where you are standing (HEAD, or somewhere else)
+you commits are objects and saved in `.git/objects/` directory, in order for git to save all your files, it compresses them into raw bytes format
+
+
+*pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
