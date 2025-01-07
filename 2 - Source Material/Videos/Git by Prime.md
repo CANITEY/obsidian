@@ -124,7 +124,12 @@ there are another commands to interact with a branch `checkout`/`switch`
 - **`switch`**  is used switch between branches use it with `-c` to create a branch and switch to it
 - **`checkout`** is for the old Gs, used to switch branches, use it with `-b` to create a branch and switch to it
 
-
+### Log flags
+use these flags with log to change how it is shown to you
+```
+--decorate=(short/full/no) # the whole difference is that it show the full ref of your branch or not
+--oneline # this shows the log in a consice way without any bloat
+```
 
 
 
