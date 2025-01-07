@@ -135,6 +135,10 @@ use these flags with log to change how it is shown to you
 ## Merging
 this allow you to merge branches together, by using `git merge <branch>` this will put the branch you specify infront of the branch you are standing on merging all the commits into 1 child commit (merge commit)
 
+### Merge types
+### Fast forward 
+is the first merge type when your new branch has commits, and the old branch is still at the same state when you branched from it, so git will only move your new branch commits infront of the old commit you branched fro
+
 
 
 
