@@ -133,7 +133,7 @@ use these flags with log to change how it is shown to you
 ```
 
 ## Merging
-
+this allow you to merge branches tog
 
 
 
