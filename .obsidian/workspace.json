@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Git by Prime"
             }
+          },
+          {
+            "id": "3474edbe849cbdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Hanged tasks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Hanged tasks"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -176,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e235933cd9c07f6d",
+  "active": "3474edbe849cbdde",
   "lastOpenFiles": [
+    "2 - Source Material/Videos/Git by Prime.md",
+    "1 - Rough Notes/Hanged tasks.md",
     "1 - Rough Notes/Inode busting.md",
     "7 - Status/st-new.md",
     "7 - Status/st-need-more-info.md",
@@ -186,7 +202,6 @@
     "7 - Status",
     "README.md",
     "5 - Main Notes/ss.md",
-    "2 - Source Material/Videos/Git by Prime.md",
     "4 - Templates/Source Material.md",
     "6 - Main Notes/ss.md",
     "1 - Rough Notes/test.md",
