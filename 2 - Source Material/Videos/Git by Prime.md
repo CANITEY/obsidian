@@ -111,6 +111,8 @@ used to remove a key
 #### remove-section
 is used to remove the whole [[#^fea776|section]], with key:value pairs from git config
 
+## Branching
+a branch in git is where you are working, making a new branch it will make a copy of the branch you are standing on, so you can work on it without damaging the main branch
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
