@@ -104,7 +104,7 @@ reading this will output the commit message, at the start of the commit message 
 #### get
 used to get a value of a key
 #### add
-used to set a value
+used to set a key:value
 #### unset
 used to remove a value
 
