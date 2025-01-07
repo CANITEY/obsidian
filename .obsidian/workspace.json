@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a967d0b0f9ccd56",
+        "id": "dfed0d86a22cda0e",
         "type": "tabs",
         "children": [
           {
-            "id": "708745341520007c",
+            "id": "e235933cd9c07f6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "708745341520007c",
+  "active": "e235933cd9c07f6d",
   "lastOpenFiles": [
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Templates/Source Material.md",

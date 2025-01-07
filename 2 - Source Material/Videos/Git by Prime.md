@@ -44,7 +44,9 @@ you can use `git config` with some common flags:
 
 
 ## Repositories
-repositories are the core of projects, every project would have one repo, which is a .git file in your project direct
+repositories are the core of projects, every project would have one repo, which is a .git file in your project directory
+
+you can create a repository using `git init` inside your folder, we will be creating a webflyx project (directory) and create a repo inside
 ### config
 
 
