@@ -2,7 +2,6 @@
 tags: 
 date: 2025-01-06 22:21
 ---
-
 # References
 - [YouTube video](https://www.youtube.com/watch?v=rH3zE7VlIMs)
 # Git by Prime
@@ -66,6 +65,7 @@ git add <file> # adds a file to git working directory, so get can check on it, a
 
 ### Committing
 committing means that all staged file (staged files not just tracked) will be saved as a snapshot to view, get back to if any thing gone wrong
+each commit saves the whole directory not just the changed files, but for none changes files it will store a pointer to the file, and will not store the file it self again
 
 you can commit using `git commit` this will open an editor to write a message, 
 **Messages** must be verbose with one line title, and a verbose description of what you have done in this commit, to tell future-you and your friends, why did you add a crypto-mining malware to the coffee-machine software
@@ -89,7 +89,7 @@ you can log using `git log`, some useful flags would be
 every commit has a unique hash id which lets you interact with the commit without conflicting with other commits, (randomly generated)
 
 ## Internals
-hashes may differ from a user to another user
+hashes differ from a user to another user
 
 ### Some plumbing
 all data in .git are just files, commits, current branch, where the [[#^5b1ad8|pointer]] pointing
@@ -101,10 +101,9 @@ reading this will output the commit message, at the start of the commit message 
 
 
 
-
 # Appendex
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
-*tree*, is a directory in get having all your files as blobs ^d837e9
+*tree*, is a directory in git having all your files as blobs ^d837e9
 
 *blob* is a file in get  ^c14f87
