@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Inode busting.md",
+                "file": "2 - Source Material/Videos/Git by Prime.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inode busting"
+              "title": "Git by Prime"
             }
           }
         ]
@@ -90,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Inode busting.md",
+                "file": "2 - Source Material/Videos/Git by Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inode busting"
+              "title": "Backlinks for Git by Prime"
             }
           },
           {
@@ -125,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Inode busting.md",
+                "file": "2 - Source Material/Videos/Git by Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Inode busting"
+              "title": "Outgoing links from Git by Prime"
             }
           },
           {
@@ -176,8 +178,13 @@
   },
   "active": "e235933cd9c07f6d",
   "lastOpenFiles": [
-    "README.md",
     "1 - Rough Notes/Inode busting.md",
+    "7 - Status/st-new.md",
+    "7 - Status/st-need-more-info.md",
+    "7 - Status/st-finished.md",
+    "7 - Status/st-unfinished.md",
+    "7 - Status",
+    "README.md",
     "5 - Main Notes/ss.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "4 - Templates/Source Material.md",
@@ -190,11 +197,11 @@
     "3 - Indexes/0 - RTFM.md",
     "5 - Main Notes",
     "4 - Templates",
-    "7 - Tags/0 - RTFM.md",
+    "8 - Tags/0 - RTFM.md",
     "2 - Source Material/0 - RTFM.md",
     "1 - Rough Notes/0 - RTFM.md",
     "3 - Indexes",
-    "7 - Tags",
+    "8 - Tags",
     "2 - Source Material",
     "1 - Rough Notes",
     "Untitled 1.md",
