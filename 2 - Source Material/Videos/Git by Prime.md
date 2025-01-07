@@ -50,8 +50,16 @@ you can create a repository using `git init` inside your folder, we will be crea
 
 ### Status
 file can be in different status in a repo
-- **untracked**: the file is not tracked by git, (new files, Note files, temp file, etc). You have total control on the status
+- **untracked**: the file is not tracked by git, (new files, Note files, temp file, etc). You have total control on the status, here git doesn't sense or check this file
 - **staged**: the file will be included when you commit
-- **commited**: the file is committed
+- **committed**: the file is committed
 
+### Staging
+staging means to make a file(s) tracked by git (added to your working directory) so git can check on it, to see if any changes where done, or any new things where added to it
+you can switch the status of the file by using git commands
+**Examples**:
+```
+git add <file> # adds a file to git working directory, so get can check on it, and makes it ready to be committed by changing its status to *staged*
+```
 
+### committing
