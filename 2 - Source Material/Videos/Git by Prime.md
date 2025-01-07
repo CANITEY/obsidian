@@ -47,7 +47,11 @@ you can use `git config` with some common flags:
 repositories are the core of projects, every project would have one repo, which is a .git file in your project directory
 
 you can create a repository using `git init` inside your folder, we will be creating a webflyx project (directory) and create a repo inside
-### config
 
+### Status
+file can be in different status in a repo
+- **untracked**: the file is not tracked by git, (new files, Note files, temp file, etc). You have total control on the status
+- **staged**: the file will be included when you commit
+- **commited**: the file is committed
 
 
