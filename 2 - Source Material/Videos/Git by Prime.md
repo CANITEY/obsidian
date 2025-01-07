@@ -101,12 +101,13 @@ reading this will output the commit message, at the start of the commit message 
 
 
 ### config 
+these are some commands that are used to operate on config use them as a flag with `git config --<operation>`
 #### get
 used to get a value of a key
 #### add
 used to set a key:value
 #### unset
-used to remove a value
+used to remove a key
 
 
 # Appendix
