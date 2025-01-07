@@ -133,7 +133,7 @@ use these flags with log to change how it is shown to you
 ```
 
 ## Merging
-this allow you to merge branches together
+this allow you to merge branches together, by using `git merge <branch>` this will put the branch you specify infront of the branch you are standing on merging all the commits into 1 child commit (merge commit)
 
 
 

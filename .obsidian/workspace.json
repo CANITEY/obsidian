@@ -36,8 +36,7 @@
               "title": "Hanged tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3474edbe849cbdde",
+  "active": "e235933cd9c07f6d",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/Git by Prime.md",
     "1 - Rough Notes/Hanged tasks.md",
+    "2 - Source Material/Videos/Git by Prime.md",
     "1 - Rough Notes/Inode busting.md",
     "7 - Status/st-new.md",
     "7 - Status/st-need-more-info.md",
