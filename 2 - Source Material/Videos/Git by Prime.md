@@ -94,9 +94,10 @@ hashes may differ from a user to another user
 ### Some plumbing
 all data in .git are just files, commits, current branch, where the [[#^5b1ad8|pointer]] pointing
 
-you commits are objects and saved in `.git/objects/` directory, in order for git to save all your files, it compresses them into raw bytes format
+you commits are objects and saved in `.git/objects/` directory, in order for git to save all your commits, it compresses them into raw bytes format
 
 if you try to read a file using regular cat, you won't be able, so git gives you a plumbing command `git cat-file -p <commit id>` which will allow you to read commit file
+reading this will output the commit message, at the start of the commit message you will notice tree with a hash (tree id)
 
 
 
