@@ -71,3 +71,16 @@ you can commit using `git commit` this will open an editor to write a message,
 **Messages** must be verbose with one line title, and a verbose description of what you have done in this commit, to tell future-you and your friends, why did you add a crypto-mining malware to the coffee-machine software
 
 you can add an inline message using `git commit -m "<your message>`
+
+### Git log
+this feature shows you the history of your commits, by default it shows 
+- who did the commit
+- the date of the commit
+- commit message
+you can make it shows more info
+
+you can log using `git log`, some useful flags would be
+```
+--oneline # makes the log compact
+--graph # shows a graph for the commits, helps to see branching and merging
+```
