@@ -69,3 +69,5 @@ committing means that all staged file (staged files not just tracked) will be sa
 
 you can commit using `git commit` this will open an editor to write a message, 
 **Messages** must be verbose with one line title, and a verbose description of what you have done in this commit, to tell future-you and your friends, why did you add a crypto-mining malware to the coffee-machine software
+
+you can add an inline message using `git commit -m "<your message>`
