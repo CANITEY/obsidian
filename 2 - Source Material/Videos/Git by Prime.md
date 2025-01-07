@@ -140,7 +140,7 @@ this allow you to merge branches together, by using `git merge <branch>` this wi
 is the first merge type when your new branch has commits, and the old branch is still at the same state when you branched from it, so git will only move your new branch commits infront of the old branch you branched from
 
 ## Rebasing
-rebase is used to move all commits from a branch to the tip of the base branch you spec
+rebase is used to move all commits from a branch to the tip of the base branch you specify, this will allow you to fast-forward merge even if the main branch has new commits into it, allow a merge free 
 
 
 
