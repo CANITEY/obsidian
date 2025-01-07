@@ -87,3 +87,6 @@ you can log using `git log`, some useful flags would be
 
 ### Commit hashes
 every commit has a unique hash id which lets you interact with the commit without conflicting with other commits, (randomly generated)
+
+## Internals
+hashes may differ from a user to another 
