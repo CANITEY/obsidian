@@ -122,6 +122,8 @@ w/o flags : creates a new branch
 
 
 there are another commands to interact with a branch `checkout`/`switch`
+- **`switch`**  is used switch between branches use it with `-c` to create a branch and switch to it
+- **`checkout`** is for the old Gs, used to switch branches, use it with `-b` to create a branch and sw
 
 
 
