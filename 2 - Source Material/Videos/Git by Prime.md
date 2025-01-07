@@ -112,7 +112,7 @@ used to remove a key
 is used to remove the whole [[#^fea776|section]], with key:value pairs from git config
 
 ## Branching
-a branch in git is where you are working, making a new branch it will make a copy of the branch you are standing on, so you can work on it without damaging the main branch
+a branch in git is where you are working, making a new branch it will make a new pointer to the commit you are standing on, so you can work on it without damaging the main branch
 
 all branching operations are done through `branch` subcommand, in this subcommand you have lots of things to do
 ```
@@ -120,10 +120,9 @@ w/o flags : creates a new branch
 -m : to rename a branch
 ```
 
-
 there are another commands to interact with a branch `checkout`/`switch`
 - **`switch`**  is used switch between branches use it with `-c` to create a branch and switch to it
-- **`checkout`** is for the old Gs, used to switch branches, use it with `-b` to create a branch and sw
+- **`checkout`** is for the old Gs, used to switch branches, use it with `-b` to create a branch and switch to it
 
 
 
