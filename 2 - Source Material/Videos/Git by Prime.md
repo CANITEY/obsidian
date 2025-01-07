@@ -121,7 +121,7 @@ w/o flags : creates a new branch
 ```
 
 
-there
+there are another commands to interact with a branch `checkout`/`switch`
 
 
 
