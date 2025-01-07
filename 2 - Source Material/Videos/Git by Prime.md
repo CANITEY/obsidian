@@ -36,7 +36,9 @@ you can use `git config` with some common flags:
 
 --global <other flags> # used to get/set property in the global space `~/.gitconfig`
 
---list # lists all configs and the values assigned to
+--list # lists all configs and the values assigned to it
+
+--unset <property> # used to unset the first property value
 ```
 
 
