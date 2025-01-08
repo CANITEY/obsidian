@@ -1,9 +1,10 @@
 ---
 tags:
   - tool
+  - subdomain-enum
 ---
 # Description
-a tool by tomnomnom, used to gather subdomains passiv
+a tool by tomnomnom, used to gather subdomains passively
 
 # Installation
 ```

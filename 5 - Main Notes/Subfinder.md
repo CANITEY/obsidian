@@ -1,6 +1,7 @@
 ---
 tags:
   - tool
+  - subdomain-enum
 ---
 # Description
 A tool written in golang by projectdiscovery

@@ -1,6 +1,7 @@
 ---
 tags:
   - tool
+  - subdomain-enum
 ---
 # Description
 A tool by owasp used for general info gathering about hosts(domains, IP addresses, CIDRs, ASNs)
