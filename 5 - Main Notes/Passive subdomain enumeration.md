@@ -31,8 +31,11 @@ yay -S amass
 ```
 go install github.com/tomnomnom/assetfinder@latest
 --- or 
-yay -S assetfin
+yay -S assetfinder
 ```
 ### Commands
+
+
+
 # References
 [[Recon by Omar Abu-Zekri]]
