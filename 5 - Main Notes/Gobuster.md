@@ -15,7 +15,7 @@ used in:
 ```
 yay -S gobuster
 --- or
-through github
+through github and go
 ```
 
 # Commands
