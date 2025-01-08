@@ -27,10 +27,12 @@ yay -S amass
 ### Commands
 `amass enum --passive -d example.com -o example.com.subs` 
 ## Assetfinder
-### Instal
+### Installation
 ```
 go install github.com/tomnomnom/assetfinder@latest
+--- or 
+yay -S assetfin
 ```
-
+### Commands
 # References
 [[Recon by Omar Abu-Zekri]]
