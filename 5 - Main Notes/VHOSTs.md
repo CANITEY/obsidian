@@ -14,10 +14,10 @@ in this type, server is configured to host more than one website, but each of th
 when you send a request to the server, server routes the request based on the IP address associated with it
 
 ### Name based
-in this type, server is configured to host more than one website on the same IP address, but the server routes the request based on the HOST name in the header of the 
+in this type, server is configured to host more than one website on the same IP address, but the server routes the request based on the HOST name in the header of the HTTP request
 
 
 
 # References
-this is used for source material and any other note linked to this note
+[Virtual Host Enumeration for Uncovering Hidden Subdomains](https://medium.com/r3d-buck3t/virtual-host-enumeration-for-uncovering-hidden-subdomains-e800625c2b8f]]
 
