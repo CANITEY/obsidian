@@ -35,5 +35,10 @@ yay -S puredns # this will install massdns automatically
 ## Bruteforce
 ```
 puredns bruteforce all.txt domain.com # use all.txt as words for bruteforcing a single domain
-puredns bruteforce all.txt -d domain.txt # use all.txt as words for bruteforcing domain 
+puredns bruteforce all.txt -d domain.txt # use all.txt as words for bruteforcing domains file
+```
+## Resolving
+this step for resolving if domains has records on DNS servers
+```
+puredns resolve domains.txt
 ```
