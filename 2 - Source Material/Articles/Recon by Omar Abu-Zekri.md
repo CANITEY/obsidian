@@ -84,3 +84,5 @@ to check if one ip has more than one host
 ## Resolve ips to domains
 `python3 hosthunter.py <target-ips.txt> > vhosts.txt`
 `nmap -iL ips.txt -sn | grep for |cut -d " " -f 5`
+
+## Dorking to get more domains, interesting files, and zero-
