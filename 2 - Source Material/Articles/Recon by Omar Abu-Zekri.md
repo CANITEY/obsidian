@@ -76,4 +76,7 @@ you may use these tools to gather emails,
 ### directory fuzzing 
 using ffuf, gobuster
 ### parameter fuzzing 
-arjun, param
+arjun, parampampam
+
+## Vhost scan
+to check if one ip has more h
