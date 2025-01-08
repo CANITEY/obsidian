@@ -8,7 +8,7 @@ tags:
 A tools written in go used in all sorts of fuzzing, and enumeration
 used in:
 - active subdomain enumeration
-- VHOST discovery
+- [[VHOSTs]] discovery
 - directory bruteforcing
 
 # Installation
