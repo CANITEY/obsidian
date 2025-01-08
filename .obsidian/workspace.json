@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Videos/Git by Prime.md",
+                "file": "5 - Main Notes/Passive subdomain enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git by Prime"
+              "title": "Backlinks for Passive subdomain enumeration"
             }
           },
           {
@@ -224,13 +224,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,11 +243,11 @@
   },
   "active": "d8a14e0b1467febf",
   "lastOpenFiles": [
-    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
-    "5 - Main Notes/Passive subdomain enumeration.md",
-    "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Subdomain enumeration.md",
+    "5 - Main Notes/Passive subdomain enumeration.md",
     "5 - Main Notes/Active subdomain enumeration.md",
+    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/ASN numbers.md",
     "3 - Indexes/Bugbounty.md",
     "5 - Main Notes/Network sweeping.md",
