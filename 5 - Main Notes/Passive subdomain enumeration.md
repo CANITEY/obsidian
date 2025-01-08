@@ -11,8 +11,9 @@ date: 2025-01-08 16:28
 ```
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 --- or
-yay -S 
+yay -S subfinder
 ```
+### Interesting flags
 
 
 
