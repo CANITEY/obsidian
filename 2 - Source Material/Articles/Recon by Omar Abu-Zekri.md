@@ -61,4 +61,5 @@ these info can be gathered using
 - gau: to get endpoints cached in wayback machine
 - ffuf, gobuster, dirb: to discover directories
 - katana, gospider: to spider the websites to gather endpoints and files in domain
-- Js Scanner: to get juicy data from js files gathered by the tools abo
+- Js Scanner: to get juicy data from js files gathered by the tools above, [another resource to help you analyse js files manually](https://medium.com/disruptive-labs/static-analysis-of-client-side-javascript-for-pen-testers-and-bug-bounty-hunters-f1cb1a5d5288)
+- 
