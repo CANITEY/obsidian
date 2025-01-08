@@ -2,6 +2,7 @@
 tags:
   - tool
   - subdomain-enum
+  - recon/passive
 ---
 # Description
 a tool by tomnomnom, used to gather subdomains passively

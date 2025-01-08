@@ -2,6 +2,7 @@
 tags:
   - tool
   - subdomain-enum
+  - recon/passive
 ---
 # Description
 A tool written in golang by projectdiscovery
