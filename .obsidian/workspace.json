@@ -28,15 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Hanged tasks.md",
+                "file": "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hanged tasks"
+              "title": "Recon by Omar Abu-Zekri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -190,9 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e235933cd9c07f6d",
+  "active": "3474edbe849cbdde",
   "lastOpenFiles": [
     "1 - Rough Notes/Hanged tasks.md",
+    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "2 - Source Material/Articles",
     "2 - Source Material/Videos/Git by Prime.md",
     "1 - Rough Notes/Inode busting.md",
     "7 - Status/st-new.md",
