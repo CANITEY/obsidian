@@ -11,7 +11,8 @@ Some physical hosts may have more than one host, referred to as VHOSTing, in thi
 ## VHOSTing types
 ### IP based
 
-### Name 
+
+### Name based
 
 
 
