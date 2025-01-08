@@ -63,6 +63,20 @@
             }
           },
           {
+            "id": "c2629f2a951c4a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Emails gathering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emails gathering"
+            }
+          },
+          {
             "id": "62e9d5a9546b0079",
             "type": "leaf",
             "state": {
@@ -192,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Puredns.md",
+                "file": "5 - Main Notes/Emails gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Puredns"
+              "title": "Backlinks for Emails gathering"
             }
           },
           {
@@ -259,14 +273,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62e9d5a9546b0079",
+  "active": "c2629f2a951c4a53",
   "lastOpenFiles": [
+    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "5 - Main Notes/Emails gathering.md",
+    "5 - Main Notes/Puredns.md",
     "5 - Main Notes/Network sweeping.md",
     "5 - Main Notes/Subfinder.md",
     "7 - Status/st-new.md",
-    "5 - Main Notes/Puredns.md",
     "3 - Indexes/Cyber security.md",
-    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "5 - Main Notes/Amass.md",
     "4 - Templates/Source Material.md",
@@ -287,7 +302,6 @@
     "4 - Templates/Main Note.md",
     "4 - Templates/Index.md",
     "2 - Source Material/Articles",
-    "7 - Status/st-need-more-info.md",
     "7 - Status",
     "2 - Source Material/Videos",
     "6 - Attachments",
