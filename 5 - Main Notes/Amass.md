@@ -17,4 +17,6 @@ yay -S amass
 ### Active
 
 ### Additional flags
-``
+```
+-norecursive: 
+```
