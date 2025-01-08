@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Network sweeping.md",
+                "file": "4 - Templates/Main Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network sweeping"
+              "title": "Main Note"
             }
           },
           {
@@ -216,9 +216,9 @@
   },
   "active": "35a17c036bd8e7bb",
   "lastOpenFiles": [
+    "5 - Main Notes/Network sweeping.md",
     "5 - Main Notes/CIDR.md",
     "5 - Main Notes/ASN numbers.md",
-    "5 - Main Notes/Network sweeping.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "3 - Indexes/Bugbounty.md",
     "2 - Source Material/Videos/Git by Prime.md",
