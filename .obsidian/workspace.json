@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/FavIcons.md",
+                "file": "3 - Indexes/Bugbounty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FavIcons"
+              "title": "Bugbounty"
             }
           },
           {
@@ -82,10 +82,14 @@
             "id": "137c92813cbe98b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Passive subdomain enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Passive subdomain enumeration"
             }
           }
         ],
@@ -154,8 +158,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/FavIcons.md",
+                "file": "3 - Indexes/Bugbounty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FavIcons"
+              "title": "Backlinks for Bugbounty"
             }
           },
           {
@@ -245,19 +248,20 @@
   "active": "d8a14e0b1467febf",
   "lastOpenFiles": [
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
-    "5 - Main Notes/FavIcons.md",
+    "5 - Main Notes/Active subdomain enumeration.md",
+    "5 - Main Notes/Network sweeping.md",
+    "3 - Indexes/Bugbounty.md",
     "5 - Main Notes/Passive subdomain enumeration.md",
+    "5 - Main Notes/recon subdomain-enum.md",
+    "5 - Main Notes/Subdomain enumeration.md",
+    "5 - Main Notes/FavIcons.md",
     "5 - Main Notes/The Harvester.md",
     "2 - Source Material/Videos/Git by Prime.md",
-    "5 - Main Notes/Active subdomain enumeration.md",
     "5 - Main Notes/Subfinder.md",
     "5 - Main Notes/Amass.md",
     "5 - Main Notes/Assetfinder.md",
-    "5 - Main Notes/Network sweeping.md",
-    "5 - Main Notes/Subdomain enumeration.md",
     "4 - Templates/Tool.md",
     "5 - Main Notes/ASN numbers.md",
-    "3 - Indexes/Bugbounty.md",
     "1 - Rough Notes/Inode busting.md",
     "1 - Rough Notes/Hanged tasks.md",
     "7 - Status/st-new.md",
@@ -271,7 +275,6 @@
     "7 - Status/st-unfinished.md",
     "7 - Status",
     "README.md",
-    "5 - Main Notes/ss.md",
     "2 - Source Material/Videos",
     "6 - Attachments",
     "5 - Main Notes",
