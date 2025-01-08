@@ -60,4 +60,5 @@ use httpx
 these info can be gathered using 
 - gau: to get endpoints cached in wayback machine
 - ffuf, gobuster, dirb: to discover directories
-- katana, gospider: to spider the websites to gather endpoints and files in the 
+- katana, gospider: to spider the websites to gather endpoints and files in domain
+- Js Scanner: to get juicy data from js files gathered by the tools abo
