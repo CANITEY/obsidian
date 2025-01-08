@@ -17,4 +17,7 @@ he follows a solid steps that are
 
 you don't need to follow the same steps in order
 
+## ASN numbers
+you can gather ASN numbers using harvester `theHarvester -d target.com -b all` or amass `amass enum -active -d target.com`
+
 
