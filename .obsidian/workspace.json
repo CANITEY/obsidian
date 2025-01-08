@@ -131,9 +131,23 @@
               "icon": "lucide-file",
               "title": "Active subdomain enumeration"
             }
+          },
+          {
+            "id": "ca7c5d2dda2f1919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -220,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Active subdomain enumeration.md",
+                "file": "5 - Main Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +244,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Active subdomain enumeration"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -287,8 +301,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e889a4172ac63b11",
+  "active": "ca7c5d2dda2f1919",
   "lastOpenFiles": [
+    "5 - Main Notes/Active subdomain enumeration.md",
+    "5 - Main Notes/Untitled.md",
     "5 - Main Notes/Emails gathering.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Puredns.md",
@@ -296,7 +312,6 @@
     "5 - Main Notes/Subfinder.md",
     "7 - Status/st-new.md",
     "3 - Indexes/Cyber security.md",
-    "5 - Main Notes/Active subdomain enumeration.md",
     "5 - Main Notes/Amass.md",
     "4 - Templates/Source Material.md",
     "5 - Main Notes/FavIcons.md",
@@ -314,7 +329,6 @@
     "1 - Rough Notes/Hanged tasks.md",
     "7 - Status/st-todo.md",
     "4 - Templates/Main Note.md",
-    "4 - Templates/Index.md",
     "2 - Source Material/Articles",
     "7 - Status",
     "2 - Source Material/Videos",
