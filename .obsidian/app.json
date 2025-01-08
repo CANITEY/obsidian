@@ -6,5 +6,6 @@
   "foldIndent": false,
   "showLineNumber": true,
   "livePreview": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
