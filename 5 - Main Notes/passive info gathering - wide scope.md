@@ -1,5 +1,5 @@
 ---
-tags: #bugbounty #recon #passive
+tags: #bugbounty #recon/passive
 date: 2025-01-08 15:33
 ---
 # Information gathering
