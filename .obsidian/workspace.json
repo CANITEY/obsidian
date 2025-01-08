@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d6bda9066a2eb896",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "e235933cd9c07f6d",
             "type": "leaf",
             "state": {
@@ -56,12 +68,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Active subdomain enumeration.md",
+                "file": "5 - Main Notes/Amass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active subdomain enumeration"
+              "title": "Amass"
+            }
+          },
+          {
+            "id": "5562aaa256e8d80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Amass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amass"
             }
           },
           {
@@ -77,23 +103,9 @@
               "icon": "lucide-file",
               "title": "Network sweeping"
             }
-          },
-          {
-            "id": "137c92813cbe98b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5 - Main Notes/Amass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Amass"
             }
           },
           {
@@ -231,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,36 +258,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "137c92813cbe98b1",
+  "active": "62e9d5a9546b0079",
   "lastOpenFiles": [
-    "5 - Main Notes/Passive subdomain enumeration.md",
-    "5 - Main Notes/Network sweeping.md",
-    "3 - Indexes/Cyber security.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "5 - Main Notes/Amass.md",
     "5 - Main Notes/Active subdomain enumeration.md",
+    "5 - Main Notes/Network sweeping.md",
+    "4 - Templates/Source Material.md",
+    "5 - Main Notes/FavIcons.md",
+    "5 - Main Notes/CIDR.md",
+    "5 - Main Notes/Assetfinder.md",
+    "5 - Main Notes/ASN numbers.md",
+    "README.md",
+    "5 - Main Notes/Passive subdomain enumeration.md",
+    "3 - Indexes/Cyber security.md",
     "5 - Main Notes/recon subdomain-enum.md",
     "5 - Main Notes/Subdomain enumeration.md",
-    "5 - Main Notes/FavIcons.md",
     "5 - Main Notes/The Harvester.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Subfinder.md",
-    "5 - Main Notes/Amass.md",
-    "5 - Main Notes/Assetfinder.md",
     "4 - Templates/Tool.md",
-    "5 - Main Notes/ASN numbers.md",
     "1 - Rough Notes/Inode busting.md",
     "1 - Rough Notes/Hanged tasks.md",
     "7 - Status/st-new.md",
     "7 - Status/st-todo.md",
     "4 - Templates/Main Note.md",
-    "5 - Main Notes/CIDR.md",
     "4 - Templates/Index.md",
     "2 - Source Material/Articles",
     "7 - Status/st-need-more-info.md",
     "7 - Status/st-finished.md",
-    "7 - Status/st-unfinished.md",
     "7 - Status",
-    "README.md",
     "2 - Source Material/Videos",
     "6 - Attachments",
     "5 - Main Notes",
