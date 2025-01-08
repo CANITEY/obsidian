@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 7541337
       }
+    },
+    {
+      "query": "path:\"7 - Status\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.5739540465423129,
   "close": true
 }

@@ -11,6 +11,8 @@ date: 2025-01-08 16:28
 ## [[Amass]]
 ## [[Assetfinder]]
 ## [[The Harvester]]
+## [[FavIcons]]
+
 
 # References
 [[Recon by Omar Abu-Zekri]]
