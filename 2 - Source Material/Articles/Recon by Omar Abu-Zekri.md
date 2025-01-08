@@ -25,8 +25,14 @@ now you turn these ASN numbers into CIDRs, you may use `whois -h whois.radb.net 
 here you turn your CIDRs into ips and sweep for active ones `nmap -n -sn 13.35.121.0/24 |grep "for" |cut -d " " -f 5 >> IP.txt`
 ```
 -sn does ping scan, stops port scan so it goes faster
--n to stop dns reso
+-n to stop dns resolving
 ```
 
+
+after that do the same scan again with `nmap -n -Pn -sS 13.35.121.0/24 |grep "for" |cut -d " " -f 5 >> IP.txt`
+```
+-Pn to assume all hosts are up
+-sS sends only a tcp SYN 
+```
 
 
