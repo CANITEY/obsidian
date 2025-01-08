@@ -19,7 +19,7 @@ use config steps from https://0xn3ssus.notion.site/R3c0n-3861249725ba4c0f83cfe67
 - `subfinder -d example.com -recursive -silent -t 200 -all -o example.com.subs`
 
 ## Amass
-## Installation
+### Installation
 
 
 # References
