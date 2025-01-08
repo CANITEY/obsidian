@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Assetfinder.md",
+                "file": "5 - Main Notes/The Harvester.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assetfinder"
+              "title": "The Harvester"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#recon",
+                "query": "tag:subdomain-enum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Assetfinder.md",
+                "file": "5 - Main Notes/The Harvester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Assetfinder"
+              "title": "Backlinks for The Harvester"
             }
           },
           {
@@ -244,8 +245,9 @@
   "active": "d8a14e0b1467febf",
   "lastOpenFiles": [
     "5 - Main Notes/Passive subdomain enumeration.md",
-    "5 - Main Notes/Amass.md",
+    "5 - Main Notes/The Harvester.md",
     "5 - Main Notes/Subfinder.md",
+    "5 - Main Notes/Amass.md",
     "5 - Main Notes/Assetfinder.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
@@ -270,7 +272,6 @@
     "README.md",
     "5 - Main Notes/ss.md",
     "4 - Templates/Source Material.md",
-    "6 - Main Notes/ss.md",
     "2 - Source Material/Videos",
     "6 - Attachments",
     "5 - Main Notes",
