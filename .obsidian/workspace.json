@@ -251,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Videos/Git by Prime.md",
+                "file": "5 - Main Notes/Gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git by Prime"
+              "title": "Outgoing links from Gobuster"
             }
           },
           {
@@ -265,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/0 - RTFM.md"
+                "file": "5 - Main Notes/Gobuster.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 0 - RTFM"
+              "title": "Outline of Gobuster"
             }
           },
           {
@@ -285,8 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,11 +298,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e889a4172ac63b11",
+  "active": "8cfe09fcbf498ebf",
   "lastOpenFiles": [
-    "5 - Main Notes/Subfinder.md",
-    "5 - Main Notes/Gobuster.md",
     "5 - Main Notes/Active subdomain enumeration.md",
+    "5 - Main Notes/Gobuster.md",
+    "5 - Main Notes/Subfinder.md",
     "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Emails gathering.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",

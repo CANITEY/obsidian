@@ -7,7 +7,9 @@ tags:
 # Description
 A tools written in go used in all sorts of fuzzing, and enumeration
 used in:
-- active subdomain enumea
+- active subdomain enumeration
+- VHOST discovery
+- directory brutef
 
 # Installation
 
