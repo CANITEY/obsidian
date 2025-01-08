@@ -9,16 +9,7 @@ date: 2025-01-08 16:28
 ## [[Subfinder]]
 
 ## [[Amass]]
-## Assetfinder
-### Installation
-```
-go install github.com/tomnomnom/assetfinder@latest
---- or 
-yay -S assetfinder
-```
-### Commands
-`echo domain | assetfinder --subs-only`
-
+## [[Assetfinder]]
 ## The Harvester
 This tool is a little general
 ### Installation
