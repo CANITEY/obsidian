@@ -5,6 +5,7 @@ tags:
   - recon/passive
   - OSINT
 date: 2025-01-08 19:13
+status: "[[st-new]]"
 ---
 
 
