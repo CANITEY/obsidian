@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Index.md",
+                "file": "3 - Indexes/Bugbounty.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Bugbounty"
             }
           },
           {
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bc884974259ef74",
+  "active": "b17c30763e966501",
   "lastOpenFiles": [
+    "4 - Templates/Index.md",
     "3 - Indexes/Bugbounty.md",
-    "5 - Main Notes/Index.md",
     "5 - Main Notes/passive info gathering - wide scope.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "2 - Source Material/Videos/Git by Prime.md",
