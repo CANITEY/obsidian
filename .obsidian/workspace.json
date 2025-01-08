@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,13 +212,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.51103591918945,
-    "collapsed": true
+    "width": 231.51103591918945
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -234,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/VHOSTs.md",
+                "file": "5 - Main Notes/Active subdomain enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VHOSTs"
+              "title": "Backlinks for Active subdomain enumeration"
             }
           },
           {
@@ -301,7 +299,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca7c5d2dda2f1919",
+  "active": "e889a4172ac63b11",
   "lastOpenFiles": [
     "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Active subdomain enumeration.md",
