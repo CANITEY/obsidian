@@ -2,6 +2,7 @@
 tags:
   - bugbounty
   - recon/passive
+  - recon/wide
 date: 2025-01-08 16:03
 ---
 # Passive info gathering - wide scope - CIDR

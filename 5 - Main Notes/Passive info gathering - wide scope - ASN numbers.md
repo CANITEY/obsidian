@@ -1,5 +1,8 @@
 ---
-tags: bugbounty recon/passive 
+tags:
+  - bugbounty
+  - recon/passive
+  - recon/wide
 date: 2025-01-08 15:38
 ---
 # Passive info gathering - wide scope - ASN numbers
