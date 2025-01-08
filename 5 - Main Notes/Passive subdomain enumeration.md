@@ -14,9 +14,9 @@ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 yay -S subfinder
 ```
 
-use config steps from https://0xn3ssus.notion.site/R3c0n-3861249725ba4c0f83cfe67087179c84 to setup the too
-### Interesting flags
-
+use config steps from https://0xn3ssus.notion.site/R3c0n-3861249725ba4c0f83cfe67087179c84 to setup the tool
+### Command
+`subfinder -d example.com -recursive -silent -t 200 -all -o example.com.subs`
 
 
 # References
