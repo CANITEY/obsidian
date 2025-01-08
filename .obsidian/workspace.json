@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcc3b6c66beaa2dc",
+  "active": "35a17c036bd8e7bb",
   "lastOpenFiles": [
-    "5 - Main Notes/Passive info gathering - wide scope - Network sweeping.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "5 - Main Notes/Passive info gathering - wide scope - Network sweeping.md",
     "5 - Main Notes/Passive info gathering - wide scope - ASN numbers.md",
     "5 - Main Notes/Passive info gathering - wide scope - CIDR.md",
     "3 - Indexes/Bugbounty.md",
