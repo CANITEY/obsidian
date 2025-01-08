@@ -3,7 +3,7 @@ tags:
   - tool
 ---
 # Description
-A tool by owasp used for general info gathering abou
+A tool by owasp used for general info gathering about hosts
 
 # Installation
 ```
@@ -20,4 +20,5 @@ yay -S amass
 ### Additional flags
 ```
 -norecursive: Turn off recursive brute forcing
+-cidr <value> CIDRs separated by commas
 ```
