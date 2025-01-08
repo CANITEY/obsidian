@@ -42,12 +42,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/Bugbounty.md",
+                "file": "5 - Main Notes/Index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bugbounty"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "dcc3b6c66beaa2dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -206,8 +216,9 @@
   },
   "active": "3bc884974259ef74",
   "lastOpenFiles": [
-    "5 - Main Notes/passive info gathering - wide scope.md",
     "3 - Indexes/Bugbounty.md",
+    "5 - Main Notes/Index.md",
+    "5 - Main Notes/passive info gathering - wide scope.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "1 - Rough Notes/Hanged tasks.md",

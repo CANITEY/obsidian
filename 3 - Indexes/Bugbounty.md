@@ -1,2 +1,3 @@
 # Info gathering
-- [[inof]]
+- [[passive info gathering - wide scope]]
+- 
