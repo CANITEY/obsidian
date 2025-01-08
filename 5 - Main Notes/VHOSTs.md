@@ -10,7 +10,9 @@ Some physical hosts may have more than one host, referred to as VHOSTing, in thi
 
 ## VHOSTing types
 ### IP based
+in this type, server is configure to host more than one website, but each of them has a unique IP address.
 
+when you send a request to the server, server routes the request based on the IP address associated with 
 
 ### Name based
 
