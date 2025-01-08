@@ -24,7 +24,8 @@ use config steps from https://0xn3ssus.notion.site/R3c0n-3861249725ba4c0f83cfe67
 use your package manager
 yay -S amass
 ```
-### Com
+### Commands
+`amass enum --passive -d example.com -o example.com.subs` 
 
 # References
 [[Recon by Omar Abu-Zekri]]
