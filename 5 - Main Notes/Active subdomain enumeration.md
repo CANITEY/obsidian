@@ -2,10 +2,10 @@
 tags:
   - bugbounty
   - recon/mid
-  - recon/passive
+  - recon/active
 date: 2025-01-08 16:27
 ---
-
+# To
 
 
 
