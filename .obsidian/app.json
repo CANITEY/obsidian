@@ -5,6 +5,6 @@
   "vimMode": true,
   "foldIndent": false,
   "showLineNumber": true,
-  "livePreview": false,
+  "livePreview": true,
   "readableLineLength": false
 }

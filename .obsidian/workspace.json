@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/Bugbounty.md",
+                "file": "5 - Main Notes/passive info gathering - wide scope.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Bugbounty"
+              "title": "passive info gathering - wide scope"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#recon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,12 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b17c30763e966501",
+  "active": "3bc884974259ef74",
   "lastOpenFiles": [
-    "4 - Templates/Index.md",
-    "3 - Indexes/Bugbounty.md",
-    "5 - Main Notes/passive info gathering - wide scope.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "5 - Main Notes/passive info gathering - wide scope.md",
+    "3 - Indexes/Bugbounty.md",
+    "4 - Templates/Index.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "1 - Rough Notes/Hanged tasks.md",
     "2 - Source Material/Articles",

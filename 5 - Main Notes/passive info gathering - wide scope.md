@@ -1,5 +1,5 @@
 ---
-tags: #bugbounty #recon/passive 
+tags: bugbounty recon/passive 
 date: 2025-01-08 15:38
 ---
 # passive info gathering - wide scope
@@ -12,6 +12,7 @@ https://bgp.he.net/ - website
 ```
 ## CIDRs gathering
 CIDRs are an ip range in a subnet mask `192.168.1.1/24` for example, you gather them 
+to get CIDRs from ASN, you may use 1 of thre
 
 
 # References
