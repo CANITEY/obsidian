@@ -36,3 +36,5 @@ after that do the same scan again with `nmap -n -Pn -sS 13.35.121.0/24 |grep "fo
 ```
 
 ## Subdomain enumeration
+### subfinder
+`subfinder -d example.com -recursive -silent -t 200 -o example.com.subs`
