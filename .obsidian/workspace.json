@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "Recon by Omar Abu-Zekri"
             }
+          },
+          {
+            "id": "3bc884974259ef74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Information gathering.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Information gathering"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3474edbe849cbdde",
+  "active": "3bc884974259ef74",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/Git by Prime.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
+    "5 - Main Notes/Information gathering.md",
+    "2 - Source Material/Videos/Git by Prime.md",
     "1 - Rough Notes/Hanged tasks.md",
     "2 - Source Material/Articles",
     "1 - Rough Notes/Inode busting.md",
