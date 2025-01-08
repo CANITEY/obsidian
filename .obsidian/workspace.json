@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Passive info gathering - wide scope - CIDR.md",
+                "file": "3 - Indexes/Bugbounty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passive info gathering - wide scope - CIDR"
+              "title": "Bugbounty"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "5bf214b6ccc830a0",
   "lastOpenFiles": [
-    "5 - Main Notes/Passive info gathering - wide scope - ASN numbers.md",
     "5 - Main Notes/Passive info gathering - wide scope - CIDR.md",
+    "5 - Main Notes/Passive info gathering - wide scope - ASN numbers.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "3 - Indexes/Bugbounty.md",
