@@ -25,5 +25,7 @@ gobuster dns -d <domain> -w <wordlist>
 ```
 ## VHOSTs discovery
 ```
-gobuster vhost -u <ip address
+gobuster vhost -u <ip address>
 ```
+#### Reference
+https://medium.com/r3d-buck3t/virtual-host-enumeration-for-uncovering-hidden-subdomains-e800625c2b8f#a4ed
