@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Templates/Tool.md",
+                "file": "5 - Main Notes/Subfinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tool"
+              "title": "Subfinder"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Templates/Tool.md",
+                "file": "5 - Main Notes/Subfinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tool"
+              "title": "Backlinks for Subfinder"
             }
           },
           {
@@ -243,8 +243,9 @@
   "active": "d8a14e0b1467febf",
   "lastOpenFiles": [
     "5 - Main Notes/Passive subdomain enumeration.md",
-    "4 - Templates/Tool.md",
+    "5 - Main Notes/Subfinder.md",
     "5 - Main Notes/Subdomain enumeration.md",
+    "4 - Templates/Tool.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "2 - Source Material/Videos/Git by Prime.md",
@@ -271,7 +272,6 @@
     "2 - Source Material/Videos",
     "6 - Attachments",
     "6 - Main Notes/Untitled.md",
-    "3 - Indexes/0 - RTFM.md",
     "5 - Main Notes",
     "4 - Templates",
     "3 - Indexes",
