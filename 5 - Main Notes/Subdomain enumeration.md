@@ -7,6 +7,8 @@ date: 2025-01-08 16:18
 ---
 In this step you start gathering subdomains, there are 2 ways 
 # [[Passive subdomain enumeration]]
+In this method you try to get subdomains using passive tools, to gather data scattered on the in
+
 This step has the following pros:
 - fast
 - doesn't make targets notice you
