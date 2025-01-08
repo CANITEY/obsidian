@@ -18,4 +18,4 @@ In this step you turn CIDRs into IP addresses, it comes after this step [[CIDR]]
 
 
 # References
-[[o]]
+[[Recon by Omar Abu-Zekri]]
