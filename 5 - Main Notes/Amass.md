@@ -18,5 +18,5 @@ yay -S amass
 
 ### Additional flags
 ```
--norecursive: 
+-norecursive: Turn off recursive brute forcing
 ```
