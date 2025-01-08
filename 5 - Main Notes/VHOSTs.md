@@ -4,7 +4,7 @@ tags:
 date: 2025-01-08 19:28
 ---
 # Virtual hosting
-is a feature that allow one server to host several websits
+is a feature that allow one server to host several websites
 
 # VHOST discovery
 some physical hosts may have more than one host, referred to as VHOSTing, in this technology, a company may make one IP address used to host more than one host, company determine what host to send the request to by using the `Host` header in HTTP request
