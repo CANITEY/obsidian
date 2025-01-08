@@ -1,5 +1,5 @@
 ---
-status: st-todo
+status: "[[st-todo]]"
 ---
 
 - [ ] [prime's git](https://kwww.youtube.com/watch?v=rH3zE7VlIMs)
