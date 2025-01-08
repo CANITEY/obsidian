@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/Bugbounty.md",
+                "file": "5 - Main Notes/Subdomain enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bugbounty"
+              "title": "Subdomain enumeration"
             }
           },
           {
@@ -216,6 +216,7 @@
   },
   "active": "3474edbe849cbdde",
   "lastOpenFiles": [
+    "3 - Indexes/Bugbounty.md",
     "5 - Main Notes/Subdomain enumeration.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Network sweeping.md",
@@ -226,7 +227,6 @@
     "5 - Main Notes/ASN numbers.md",
     "4 - Templates/Main Note.md",
     "5 - Main Notes/CIDR.md",
-    "3 - Indexes/Bugbounty.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "4 - Templates/Index.md",
     "2 - Source Material/Articles",
