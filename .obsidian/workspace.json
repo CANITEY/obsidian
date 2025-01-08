@@ -124,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Active subdomain enumeration.md",
+                "file": "5 - Main Notes/Gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active subdomain enumeration"
+              "title": "Gobuster"
             }
           },
           {
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Active subdomain enumeration.md",
+                "file": "5 - Main Notes/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Active subdomain enumeration"
+              "title": "Backlinks for Gobuster"
             }
           },
           {
@@ -301,8 +301,9 @@
   },
   "active": "e889a4172ac63b11",
   "lastOpenFiles": [
-    "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Active subdomain enumeration.md",
+    "5 - Main Notes/Gobuster.md",
+    "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Emails gathering.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Puredns.md",
@@ -326,7 +327,6 @@
     "1 - Rough Notes/Inode busting.md",
     "1 - Rough Notes/Hanged tasks.md",
     "7 - Status/st-todo.md",
-    "4 - Templates/Main Note.md",
     "2 - Source Material/Articles",
     "7 - Status",
     "2 - Source Material/Videos",
