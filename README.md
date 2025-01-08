@@ -6,6 +6,6 @@ this is the new vault, will organize my notes in here in thoughts not indices, I
 
 ## TODO:
 - [ ] transfer old notes to here
-- [ ] do your notes in all things here
-- [ ] don't forget to install git plugin
+- [ ] do all of you here
+- [x] don't forget to install git plugin
 - [ ] create a system of hyperlinks and tags

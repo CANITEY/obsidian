@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Passive subdomain enumeration.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passive subdomain enumeration"
+              "title": "README"
             }
           }
         ],
@@ -158,13 +158,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -180,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Passive subdomain enumeration.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Passive subdomain enumeration"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -248,8 +246,8 @@
   },
   "active": "137c92813cbe98b1",
   "lastOpenFiles": [
-    "5 - Main Notes/Network sweeping.md",
     "5 - Main Notes/Passive subdomain enumeration.md",
+    "5 - Main Notes/Network sweeping.md",
     "3 - Indexes/Cyber security.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Active subdomain enumeration.md",
