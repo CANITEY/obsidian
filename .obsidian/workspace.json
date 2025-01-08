@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Gobuster.md",
+                "file": "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gobuster"
+              "title": "Backlinks for Recon by Omar Abu-Zekri"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Main Notes/Gobuster.md",
+                "file": "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gobuster"
+              "title": "Outgoing links from Recon by Omar Abu-Zekri"
             }
           },
           {
@@ -251,10 +251,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Gobuster.md"
+                "file": "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gobuster"
+              "title": "Outline of Recon by Omar Abu-Zekri"
             }
           },
           {
@@ -284,10 +284,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e889a4172ac63b11",
+  "active": "42c4bb9ee4ae975b",
   "lastOpenFiles": [
-    "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Gobuster.md",
+    "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "5 - Main Notes/Subfinder.md",
     "5 - Main Notes/Emails gathering.md",
