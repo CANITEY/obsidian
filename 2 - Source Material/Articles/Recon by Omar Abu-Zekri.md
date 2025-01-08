@@ -43,4 +43,11 @@ follow the configuration section in the article
 ### amass
 `amass enum --passive -d example.com -o example.com.subs` **Don't just use this command be dynamic**
 ### assetfinder
-`echo domain assetfinder --subs-only`
+`echo domain | assetfinder --subs-only`
+
+### The harvester
+`theHarvester -d cisco.com -b all`
+### Use favicons
+https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139
+### CRT.sh
+## Get working host
