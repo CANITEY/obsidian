@@ -62,4 +62,10 @@ these info can be gathered using
 - ffuf, gobuster, dirb: to discover directories
 - katana, gospider: to spider the websites to gather endpoints and files in domain
 - Js Scanner: to get juicy data from js files gathered by the tools above, [another resource to help you analyse js files manually](https://medium.com/disruptive-labs/static-analysis-of-client-side-javascript-for-pen-testers-and-bug-bounty-hunters-f1cb1a5d5288)
-- 
+
+## Emails
+API of - https://github.com/laramies/theHarvester - with api
+API of - https://hunter.io/  - free version
+API of - https://app.snov.io/    - free version
+API of - https://minelead.io/  - free version
+you may use these tools to gather emails, 
