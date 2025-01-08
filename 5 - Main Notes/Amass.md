@@ -15,3 +15,6 @@ yay -S amass
 ### Passive
 `amass enum --passive -d example.com -o example.com.subs` 
 ### Active
+
+### Additional flags
+``
