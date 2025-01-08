@@ -2,7 +2,6 @@
 tags: 
 date: "{{date}} {{time}}"
 ---
-# {{Title}}
 
 
 

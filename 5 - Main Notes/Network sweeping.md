@@ -18,4 +18,4 @@ In this step you turn CIDRs into IP addresses, it comes after this step [[CIDR]]
 
 
 # References
-this is used for source material and any other note linked to this note
+[[o]]
