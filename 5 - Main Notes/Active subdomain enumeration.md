@@ -1,6 +1,6 @@
 ---
 tags:
-  - bugbounty
+  - cybersecurity
   - recon/mid
   - recon/active
 date: 2025-01-08 16:27

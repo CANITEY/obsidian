@@ -1,6 +1,6 @@
 ---
 tags:
-  - bugbounty
+  - cybersecurity
   - recon/passive
   - recon/wide
 date: 2025-01-08 16:03

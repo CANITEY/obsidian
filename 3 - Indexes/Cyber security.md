@@ -1,5 +1,5 @@
 ---
-tags: bugbounty
+tags: cybersecurity
 ---
 # Info gathering
 - [[ASN numbers]]
