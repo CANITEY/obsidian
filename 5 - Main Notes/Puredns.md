@@ -3,6 +3,7 @@ tags:
   - tool
 ---
 # Description
+**puredns** is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 
 # Installation
 ## Prerequisites
@@ -18,7 +19,7 @@ sudo make install
 ```
 go install github.com/d3mondev/puredns/v2@latest
 --- or 
-yay -S puredns # this will install massdns automaticall
+yay -S puredns # this will install massdns automatically
 ```
 # Commands
 
