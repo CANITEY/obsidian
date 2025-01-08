@@ -21,6 +21,8 @@ you don't need to follow the same steps in order
 you can gather ASN numbers using harvester `theHarvester -d target.com -b all` or amass `amass enum -active -d target.com` or https://bgp.he.net/
 ## CIDR
 now you turn these ASN numbers into CIDRs, you may use `whois -h whois.radb.net -- '-i origin AS16509' | grep -Eo "([0-9.]+){4}/[0-9]+" |uniq`  or https://bgp.he.net/ or http://ipinfo.io/AS714
+## Network sweeping
+here you turn your CIDRs into ips and sweep for active 
 
 
 
