@@ -19,5 +19,5 @@ in this type, server is configured to host more than one website on the same IP 
 
 
 # References
-[Virtual Host Enumeration for Uncovering Hidden Subdomains](https://medium.com/r3d-buck3t/virtual-host-enumeration-for-uncovering-hidden-subdomains-e800625c2b8f]]
-
+[Virtual Host Enumeration for Uncovering Hidden Subdomains](https://medium.com/r3d-buck3t/virtual-host-enumeration-for-uncovering-hidden-subdomains-e800625c2b8f)
+[[Recon by Omar Abu-Zekri]]
