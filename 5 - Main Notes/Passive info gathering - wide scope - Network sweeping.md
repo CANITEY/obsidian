@@ -5,7 +5,9 @@ tags:
 date: 2025-01-08 16:05
 ---
 # Passive info gathering - wide scope - Network sweeping
-In this step you turn CIDRs into IP addresses
+In this step you turn CIDRs into IP addresses, it comes after this step [[cid]]
+
+
 
 
 
