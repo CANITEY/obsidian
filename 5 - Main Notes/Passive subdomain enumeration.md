@@ -26,6 +26,7 @@ yay -S amass
 ```
 ### Commands
 `amass enum --passive -d example.com -o example.com.subs` 
+
 ## Assetfinder
 ### Installation
 ```
@@ -36,5 +37,6 @@ yay -S assetfinder
 ### Commands
 `echo domain | assetfinder --subs-only`
 
+## 
 # References
 [[Recon by Omar Abu-Zekri]]
