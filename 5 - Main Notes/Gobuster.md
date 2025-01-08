@@ -19,4 +19,11 @@ through github and go
 ```
 
 # Commands
-
+## Subdomain bruteforcing
+```
+gobuster dns -d <domain> -w <wordlist>
+```
+## VHOSTs discovery
+```
+gobuster vhost -u <ip address
+```
