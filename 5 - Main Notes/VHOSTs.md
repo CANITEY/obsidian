@@ -1,6 +1,8 @@
 ---
 tags:
   - cybersecurity
+  - computer-networks
+  - protocols/HTTP
 date: 2025-01-08 19:28
 ---
 # Virtual hosting
