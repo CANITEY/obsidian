@@ -1,6 +1,8 @@
 ---
 tags:
   - tool
+  - recon/subdomain-enum
+  - recon/active
 ---
 # Description
 **puredns** is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
