@@ -9,7 +9,9 @@ Is a feature that allow one server to host several websites.
 Some physical hosts may have more than one host, referred to as VHOSTing, in this technology, a company may make one IP address used to host more than one host, company determine what host to send the request to by using the `Host` header in HTTP request
 
 ## VHOSTing types
-### IP base
+### IP based
+
+### Name 
 
 
 
