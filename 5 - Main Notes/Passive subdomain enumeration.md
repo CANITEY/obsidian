@@ -8,15 +8,7 @@ date: 2025-01-08 16:28
 # Tools used and a description
 ## [[Subfinder]]
 
-## Amass
-### Installation
-```
-use your package manager
-yay -S amass
-```
-### Commands
-`amass enum --passive -d example.com -o example.com.subs` 
-
+## [[Amass]]
 ## Assetfinder
 ### Installation
 ```

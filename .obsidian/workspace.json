@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Subfinder.md",
+                "file": "5 - Main Notes/Amass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subfinder"
+              "title": "Amass"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Subfinder.md",
+                "file": "5 - Main Notes/Amass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Subfinder"
+              "title": "Backlinks for Amass"
             }
           },
           {
@@ -243,6 +243,7 @@
   "active": "d8a14e0b1467febf",
   "lastOpenFiles": [
     "5 - Main Notes/Passive subdomain enumeration.md",
+    "5 - Main Notes/Amass.md",
     "5 - Main Notes/Subfinder.md",
     "5 - Main Notes/Subdomain enumeration.md",
     "4 - Templates/Tool.md",
@@ -271,7 +272,6 @@
     "1 - Rough Notes/test.md",
     "2 - Source Material/Videos",
     "6 - Attachments",
-    "6 - Main Notes/Untitled.md",
     "5 - Main Notes",
     "4 - Templates",
     "3 - Indexes",
