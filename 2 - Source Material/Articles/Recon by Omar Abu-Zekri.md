@@ -39,4 +39,6 @@ after that do the same scan again with `nmap -n -Pn -sS 13.35.121.0/24 |grep "fo
 ### subfinder
 `subfinder -d example.com -recursive -silent -t 200 -all -o example.com.subs`
 
-follow the configuration section in the art
+follow the configuration section in the article
+### amass
+`amass enum --passive -d example.com -o example.com.subs` **Don't just use this command be dynamic
