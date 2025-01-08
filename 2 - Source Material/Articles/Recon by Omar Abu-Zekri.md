@@ -50,4 +50,13 @@ follow the configuration section in the article
 ### Use favicons
 https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139
 ### CRT.sh
-## Get working host
+## Get working hosts
+use httpx
+## Gather info about the site
+1. js files
+2. interesting endpoints
+3. directories
+4. parameters
+these info can be gathered using 
+- gau: to get endpoints cached in wayback machine
+- 
