@@ -29,7 +29,7 @@ gobuster vhost -u <ip address> -w <wordlist file> -p <pattern file>
 ```
 **Pattern file** is a file has the pattern of hosts we after example
 ```
-{GOBUSTER}.doma
+{GOBUSTER}.example.com
 ```
 #### Reference
 https://medium.com/r3d-buck3t/virtual-host-enumeration-for-uncovering-hidden-subdomains-e800625c2b8f#a4ed
