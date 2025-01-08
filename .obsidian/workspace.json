@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8a14e0b1467febf",
+  "active": "3474edbe849cbdde",
   "lastOpenFiles": [
-    "5 - Main Notes/Subdomain enumeration.md",
     "5 - Main Notes/Passive subdomain enumeration.md",
+    "5 - Main Notes/Subdomain enumeration.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "5 - Main Notes/ASN numbers.md",
     "3 - Indexes/Bugbounty.md",
