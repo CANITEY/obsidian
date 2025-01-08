@@ -41,4 +41,6 @@ after that do the same scan again with `nmap -n -Pn -sS 13.35.121.0/24 |grep "fo
 
 follow the configuration section in the article
 ### amass
-`amass enum --passive -d example.com -o example.com.subs` **Don't just use this command be dynamic
+`amass enum --passive -d example.com -o example.com.subs` **Don't just use this command be dynamic**
+### assetfinder
+`echo domain assetfinder --subs-only`
