@@ -34,7 +34,7 @@ go install github.com/tomnomnom/assetfinder@latest
 yay -S assetfinder
 ```
 ### Commands
-`echo domain assetfinder --subs-only`
+`echo domain | assetfinder --subs-only`
 
 # References
 [[Recon by Omar Abu-Zekri]]
