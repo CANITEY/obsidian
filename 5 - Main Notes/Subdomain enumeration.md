@@ -18,7 +18,15 @@ cons:
 - doesn't get you all data
 
 # [[Active subdomain enumeration]]
-In this method you try to get subdomains using active tools and methods, by bruteforcing or gather domains from the actual si
+In this method you try to get subdomains using active tools and methods, by bruteforcing or gather domains from the actual site
+
+This step has the following pros:
+- accurate
+- gives fresh, alive domains
+- domains gathered depends on the wordlist used, if you have private wordlist you will get unique results
+cons:
+- slower
+- makes the target notice o
 
 
 # References
