@@ -59,4 +59,5 @@ use httpx
 4. parameters
 these info can be gathered using 
 - gau: to get endpoints cached in wayback machine
-- ffuf, gobuster, dir: to discover directories
+- ffuf, gobuster, dirb: to discover directories
+- katana, gospider: to spider the websites to gather endpoints and files in the 
