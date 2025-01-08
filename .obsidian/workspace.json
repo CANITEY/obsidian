@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/passive info gathering - wide scope - ASN numbers.md",
+                "file": "5 - Main Notes/Passive info gathering - wide scope - ASN numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "passive info gathering - wide scope - ASN numbers"
+              "title": "Passive info gathering - wide scope - ASN numbers"
             }
           },
           {
@@ -216,7 +216,7 @@
   },
   "active": "3bc884974259ef74",
   "lastOpenFiles": [
-    "5 - Main Notes/passive info gathering - wide scope - ASN numbers.md",
+    "5 - Main Notes/Passive info gathering - wide scope - ASN numbers.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "3 - Indexes/Bugbounty.md",
