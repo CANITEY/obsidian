@@ -40,7 +40,8 @@ yay -S assetfinder
 ## The Harvester
 ### Installation
 ```
-yay -S theHarvester-
+yay -S theHarvester-git
 ```
+###
 # References
 [[Recon by Omar Abu-Zekri]]
