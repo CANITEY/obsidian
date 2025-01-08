@@ -20,5 +20,6 @@ yay -S amass
 ### Additional flags
 ```
 -norecursive: Turn off recursive brute forcing
--cidr <value> CIDRs separated by commas
+-cidr <value>: CIDRs separated by commas
+-df value: 
 ```
