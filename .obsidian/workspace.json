@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Indexes/Cyber security.md",
+                "file": "5 - Main Notes/Passive subdomain enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cyber security"
+              "title": "Backlinks for Passive subdomain enumeration"
             }
           },
           {
@@ -245,13 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b32ae1aa0a06caa",
+  "active": "137c92813cbe98b1",
   "lastOpenFiles": [
+    "5 - Main Notes/Network sweeping.md",
+    "5 - Main Notes/Passive subdomain enumeration.md",
+    "3 - Indexes/Cyber security.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Active subdomain enumeration.md",
-    "5 - Main Notes/Network sweeping.md",
-    "3 - Indexes/Cyber security.md",
-    "5 - Main Notes/Passive subdomain enumeration.md",
     "5 - Main Notes/recon subdomain-enum.md",
     "5 - Main Notes/Subdomain enumeration.md",
     "5 - Main Notes/FavIcons.md",

@@ -5,7 +5,7 @@ tags:
   - recon/passive
 date: 2025-01-08 16:28
 ---
-# Tools used and a description
+# Tools
 ## [[Subfinder]]
 
 ## [[Amass]]
