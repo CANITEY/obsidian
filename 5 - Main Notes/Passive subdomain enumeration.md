@@ -37,6 +37,10 @@ yay -S assetfinder
 ### Commands
 `echo domain | assetfinder --subs-only`
 
-## 
+## The Harvester
+### Installation
+```
+yay -S theHarvester-
+```
 # References
 [[Recon by Omar Abu-Zekri]]
