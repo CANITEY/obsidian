@@ -16,7 +16,9 @@ This step has the following pros:
 cons:
 - lots of domains may be dead
 - doesn't get you all data
+
 # [[Active subdomain enumeration]]
+In this method you try to get subdomains using active tools and methods, by bruteforcing or gather domains from the actual si
 
 
 # References
