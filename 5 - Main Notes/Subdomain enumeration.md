@@ -26,7 +26,8 @@ This step has the following pros:
 - domains gathered depends on the wordlist used, if you have private wordlist you will get unique results
 cons:
 - slower
-- makes the target notice o
+- generated a lot of 
+- makes the target notice you
 
 
 # References
