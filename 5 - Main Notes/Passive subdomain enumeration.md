@@ -10,6 +10,8 @@ date: 2025-01-08 16:28
 ### Installation
 ```
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+--- or
+yay -S 
 ```
 
 
