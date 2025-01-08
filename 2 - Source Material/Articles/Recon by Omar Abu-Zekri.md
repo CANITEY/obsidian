@@ -86,4 +86,4 @@ to check if one ip has more than one host
 `nmap -iL ips.txt -sn | grep for |cut -d " " -f 5`
 
 ## Dorking to get more domains, interesting files, and zero-days
-important dorks `site:*.<domain>`
+important dorks `site:*.<domain>`, `site:domain ext:php,js,html,jsp,aspx,jspx,asp,`
