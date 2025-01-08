@@ -22,7 +22,7 @@ you can gather ASN numbers using harvester `theHarvester -d target.com -b all` o
 ## CIDR
 now you turn these ASN numbers into CIDRs, you may use `whois -h whois.radb.net -- '-i origin AS16509' | grep -Eo "([0-9.]+){4}/[0-9]+" |uniq`  or https://bgp.he.net/ or http://ipinfo.io/AS714
 ## Network sweeping
-here you turn your CIDRs into ips and sweep for active 
+here you turn your CIDRs into ips and sweep for active ones `nmap -n -sn 13.35.121.0/24 |grep "for" |cut -d " " -f 5 >> IP.txt`
 
 
 
