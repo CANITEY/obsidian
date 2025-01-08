@@ -30,4 +30,5 @@ yay -S puredns # this will install massdns automatically
 
 
 # Commands
+## Bruteforce
 
