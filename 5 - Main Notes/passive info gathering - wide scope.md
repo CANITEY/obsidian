@@ -1,10 +1,8 @@
 ---
-tags: #bugbounty #recon/passive
-date: 2025-01-08 15:33
+tags: #bugbounty #recon/passive 
+date: 2025-01-08 15:38
 ---
-# Information gathering
-
-
+# passive info gathering - wide scope
 
 
 # References
