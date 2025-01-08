@@ -11,7 +11,7 @@ yay -S amass
 ```
 
 # Commands
-## Gather subdomains - enum
+## Gather subdomains - `enum`
 ### Passive
 `amass enum --passive -d example.com -o example.com.subs` 
 ### Active
