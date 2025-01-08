@@ -5,8 +5,7 @@ tags:
   - recon/wide
 date: 2025-01-08 16:03
 ---
-# Passive info gathering - wide scope - CIDR
-This is the next step after [[Passive info gathering - wide scope - ASN numbers]]
+This is the next step after [[ASN numbers]]
 
 CIDRs are an ip range in a subnet mask `192.168.1.1/24` for example, you gather them 
 to get CIDRs from ASN, you may use 1 of three ways or all of them
