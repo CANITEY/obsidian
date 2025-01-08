@@ -69,3 +69,11 @@ API of - https://hunter.io/  - free version
 API of - https://app.snov.io/    - free version
 API of - https://minelead.io/  - free version
 you may use these tools to gather emails, 
+
+## subdomains bruteforcing
+- amass with active mode
+- puredns 
+### directory fuzzing 
+using ffuf, gobuster
+### parameter fuzzing 
+arjun, param
