@@ -10,7 +10,7 @@ tags:
 1. in current directory
 2. `.config/puredns/resolvers.txt`
 3. if none, you may optionally use resolvers by using this flag `--resolvers <path>`
-4. or it will use `8.8.8.8` or `8.8.4.4` by defaul
+4. or it will use `8.8.8.8` or `8.8.4.4` by default
 # Installation
 ## Prerequisites
 you need to install massdns through
