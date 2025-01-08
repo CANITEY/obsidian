@@ -22,4 +22,5 @@ yay -S amass
 -norecursive: Turn off recursive brute forcing
 -cidr <value>: CIDRs separated by commas
 -df <value>: Path to a file providing root domain names
+-w <path>: 
 ```
