@@ -12,6 +12,11 @@ used in:
 - directory bruteforcing
 
 # Installation
+```
+yay -S gobuster
+--- or
+through github
+```
 
 # Commands
 
