@@ -59,4 +59,4 @@ use httpx
 4. parameters
 these info can be gathered using 
 - gau: to get endpoints cached in wayback machine
-- 
+- ffuf, gobuster, dir: to discover directories
