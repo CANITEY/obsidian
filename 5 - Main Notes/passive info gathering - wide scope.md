@@ -11,7 +11,7 @@ amass enum -active -d target.com
 https://bgp.he.net/ - website
 ```
 ## CIDRs gathering
-CIDRs are an ip range in a subnet mask `192.168.1.1/24` for example
+CIDRs are an ip range in a subnet mask `192.168.1.1/24` for example, you gather them 
 
 
 # References
