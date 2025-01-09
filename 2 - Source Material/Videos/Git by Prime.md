@@ -165,7 +165,7 @@ when you and your coworkers trust this repo on your code, you may call id **Orig
 
 you can add remote repo using `git remote add <repo name> <repo uri>`
 ## Fetching
-to grab the changes done to a repo you may use `fetch`  it brings all the c
+to grab the changes done to a repo you may use `fetch`  it brings all the changes without updating any thing, it is like downloading without installing
 
 
 # Appendix
