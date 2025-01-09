@@ -161,7 +161,9 @@ using `git reset --hard <POSTION>` will reset the changes
 # Remote work
 when you are working with coworkers, you are often to use a remote repo as you trust repo, this repo will have the latest version of accepted code, this remote repo can be any repository (online or offline),.
 
-when you and your coworkers trust this repo on your code, you may call id **Origin
+when you and your coworkers trust this repo on your code, you may call id **Origin**.
+
+you can add remote repo using `git remote add <repo name> <repo uri>`
 
 
 # Appendix
