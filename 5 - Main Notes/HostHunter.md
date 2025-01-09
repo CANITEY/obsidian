@@ -8,6 +8,9 @@ tags:
 This tool maps IPs to VHOSTs enriching the attack surface
 
 # Installation
+```
+https://github.com/SpiderLabs/HostHunter
+```
 
 # Commands
 
