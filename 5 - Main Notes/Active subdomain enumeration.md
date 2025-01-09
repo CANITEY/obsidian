@@ -8,7 +8,8 @@ date: 2025-01-08 16:27
 # Tools
 ## [[Amass]]
 ## [[Puredns]]
-### [[Gobuster]]
+## [[Gobuster]]
+## Resolve IP addresses to subdomains
 
 
 # References
