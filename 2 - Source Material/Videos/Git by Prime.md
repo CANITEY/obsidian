@@ -164,6 +164,8 @@ when you are working with coworkers, you are often to use a remote repo as you t
 when you and your coworkers trust this repo on your code, you may call id **Origin**.
 
 you can add remote repo using `git remote add <repo name> <repo uri>`
+## Fetching
+to grab the changes done to a repo you may use `fetch`  it brings all the c
 
 
 # Appendix
