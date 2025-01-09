@@ -159,6 +159,7 @@ using `git reset --soft <POSITION>` will bring you to old commit with all change
 using `git reset --hard <POSTION>` will reset the changes
 
 # Remote work
+when you are working with coworkers, you are often to use a remote repo as you trust repo, this repo will have the latest version of accepted code, this remote rebo can be any repository (online or offline), 
 
 
 # Appendix
