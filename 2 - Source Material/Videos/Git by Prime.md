@@ -130,6 +130,7 @@ use these flags with log to change how it is shown to you
 --decorate=(short/full/no) # the whole difference is that it show the full ref of your branch or not
 --oneline # this shows the log in a consice way without any bloat-text
 --graph # will show the log as a graph
+--all # to show you about all 
 ```
 
 ## Merging

@@ -13,4 +13,6 @@ https://github.com/SpiderLabs/HostHunter
 ```
 
 # Commands
-
+```
+python3.10 hosthunter.py <targets.txt>
+```

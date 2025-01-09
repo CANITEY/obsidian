@@ -8,7 +8,6 @@ didn't finish
 - [[#Gather info about the site]]
 - [[#directory fuzzing]]
 - [[#parameter fuzzing]]
-- [[#Resolve ips to domains]]
 - [[#Dorking to get more domains, interesting files, and zero-days]]
 # References
 - https://0xn3ssus.notion.site/R3c0n-3861249725ba4c0f83cfe67087179c84
