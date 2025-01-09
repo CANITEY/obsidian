@@ -170,7 +170,9 @@ to grab the changes done to a repo you may use `fetch`  it brings all the change
 after you fetch, you may check the changes using `git log <remote repo name>/<branch>`, then you can merge them using `git merge <remote repo name>/<branch>`
 
 ## Pushing
-you must at some point push your changes to the remote repo, so your friends can see it, 
+you must at some point push your changes to the remote repo, so your friends can see it.
+
+use `git push <repo name>/<branch>` to push your changes
 
 
 
