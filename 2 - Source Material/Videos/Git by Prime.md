@@ -167,6 +167,8 @@ you can add remote repo using `git remote add <repo name> <repo uri>`
 ## Fetching
 to grab the changes done to a repo you may use `fetch`  it brings all the changes without updating any thing, it is like downloading without installing
 
+after you fetch, you may check the changes using `git log <remote repo name>/branch`
+
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
