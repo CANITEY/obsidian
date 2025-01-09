@@ -130,7 +130,7 @@ use these flags with log to change how it is shown to you
 --decorate=(short/full/no) # the whole difference is that it show the full ref of your branch or not
 --oneline # this shows the log in a consice way without any bloat-text
 --graph # will show the log as a graph
---all # to show you about all 
+--all # to show you about all branches
 ```
 
 ## Merging
@@ -144,8 +144,7 @@ is the first merge type when your new branch has commits, and the old branch is 
 rebase is used to move all commits from a branch to the tip of the base branch you specify, this will allow you to fast-forward merge even if the main branch has new commits into it, allow a merge free git history
 
 ## New branch
-**PAUSED**
-
+created a new branch, made some commits in this new branch and the main one, after rebasing we can see that the main commit went to the upper of the tree
 
 
 # Appendix
