@@ -147,7 +147,8 @@ rebase is used to move all commits from a branch to the tip of the base branch y
 created a new branch, made some commits in this new branch and the main one, after rebasing we can see that the main commit went to the upper of the tree
 
 ## When to rebase
-Do it or do merges as you
+Do it or do merges as you want
+## Res
 
 
 # Appendix
