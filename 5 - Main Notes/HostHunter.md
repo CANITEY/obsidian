@@ -2,7 +2,7 @@
 tags:
   - tool
   - recon/subdomain-enum
-  - recon/passive
+  - recon/active
 ---
 # Description
 
