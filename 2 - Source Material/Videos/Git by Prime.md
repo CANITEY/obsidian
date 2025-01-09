@@ -154,7 +154,9 @@ in this we will go back in commit history without discarding changes
 ### Git reset
 is a command that can be used to undo the last commits
 
-using `git reset --soft <POSITION>` will bring you to old commit with all changes done before committing, meaning that if you have files staged or changed and staged it will be in stage
+using `git reset --soft <POSITION>` will bring you to old commit with all changes done before committing, meaning that if you have files staged or changed and staged it will be in stage, (You will keep the changes)
+
+using `git reset --hard <POSTION>` will reset the c
 
 
 
