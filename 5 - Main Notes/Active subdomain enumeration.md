@@ -8,8 +8,9 @@ date: 2025-01-08 16:27
 # Tools
 ## [[Amass]]
 ## [[Puredns]]
-## [[Gobuster]]
+## [[Gobuster]] use it in active subdomains enumeration and VHOST discove
 ## Resolve IP addresses to subdomains
+In this step we 
 
 
 # References
