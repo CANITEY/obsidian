@@ -237,12 +237,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recon by Omar Abu-Zekri"
+              "title": "Outgoing links"
             }
           },
           {
@@ -250,11 +249,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Recon by Omar Abu-Zekri"
+              "title": "Outline"
             }
           },
           {
@@ -286,12 +283,12 @@
   },
   "active": "42c4bb9ee4ae975b",
   "lastOpenFiles": [
+    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Gobuster.md",
     "5 - Main Notes/VHOSTs.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "5 - Main Notes/Subfinder.md",
     "5 - Main Notes/Emails gathering.md",
-    "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Puredns.md",
     "5 - Main Notes/Network sweeping.md",
     "7 - Status/st-new.md",
