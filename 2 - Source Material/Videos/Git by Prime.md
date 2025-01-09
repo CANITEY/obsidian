@@ -149,9 +149,10 @@ created a new branch, made some commits in this new branch and the main one, aft
 ## When to rebase
 Do it or do merges as you want
 # Resetting
-## undo
-in this we will go back in commit history without discarding chan
-
+## undo changes
+in this we will go back in commit history without discarding changes
+### Git reset
+is a command that can be used to undo the last commits
 
 
 
