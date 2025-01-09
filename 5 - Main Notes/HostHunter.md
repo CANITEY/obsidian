@@ -5,6 +5,7 @@ tags:
   - recon/active
 ---
 # Description
+This tool maps IPs to VHOSTs enriching the attack surface
 
 # Installation
 
