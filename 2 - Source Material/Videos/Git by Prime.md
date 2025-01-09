@@ -148,7 +148,11 @@ created a new branch, made some commits in this new branch and the main one, aft
 
 ## When to rebase
 Do it or do merges as you want
-## Res
+# Resetting
+## undo
+in this we will go back in commit history without discarding chan
+
+
 
 
 # Appendix
