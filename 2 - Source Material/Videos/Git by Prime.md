@@ -203,7 +203,7 @@ If you added files to stage it will allow you to add these staged files into you
 
 # Git 2 by Prime
 ## Fork
-is a copy from a repo that you can get and modify without harming the original repo
+is a copy from a repo that you can get and modify without harming the original repo, this is done through your remote repo SP (github, gitlab)
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
