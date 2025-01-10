@@ -187,7 +187,7 @@ is a file that allows you to specify a file or class of files to make git ignore
 	*.txt
 	!important.txt
 	```
-
+# a comment
 ```
 
 ### `.git/info/execlude` 
