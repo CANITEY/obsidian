@@ -204,6 +204,11 @@ If you added files to stage it will allow you to add these staged files into you
 # Git 2 by Prime
 ## Fork
 is a copy from a repo that you can get and modify without harming the original repo, this is done through your remote repo SP (github, gitlab)
+### Fork workflow
+1. create a fork of the main repo
+2. clone your forked repo
+3. make changes to your repo
+4. push changes to y
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
