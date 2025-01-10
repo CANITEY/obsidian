@@ -175,8 +175,9 @@ you must at some point push your changes to the remote repo, so your friends can
 use `git push <repo name>/<branch>` to push your changes
 
 ## Pulling
-this thing does the fetch and merge automatically `git fetch <repo name>/<branc`
+this thing does the fetch and merge automatically `git fetch <repo name>/<branch>`
 
+####
 
 
 # Appendix
