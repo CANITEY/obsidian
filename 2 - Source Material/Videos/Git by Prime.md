@@ -192,11 +192,18 @@ is a file that allows you to specify a file or class of files to make git ignore
 
 ### `.git/info/execlude` 
 this file is like gitignore but local to your repo, means it will not be pushed to the remote rebo to you coworkers
-# Git 2 by Prime
+
+
 ## Amending commits
 `git commit --amend` This command will get the last commit and allow you to change the commit message, 
 
-If you added files to stag it will allow you to add these staged files into your last commit
+If you added files to stage it will allow you to add these staged files into your last commit
+
+
+
+# Git 2 by Prime
+## Fork
+is a copy from a repo that you can get and modify without harming the main 
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
