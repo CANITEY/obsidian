@@ -218,7 +218,8 @@ this command makes you show more info about your log, even the reset commits, an
 
 or you can merge the commit before you delete the file, by using the comittish from the reflog
 
-## Confi
+## Conflicts
+**PAUSED
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
