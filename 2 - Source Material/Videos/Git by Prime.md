@@ -4,7 +4,7 @@ date: 2025-01-06 22:21
 ---
 # References
 - [YouTube video](https://www.youtube.com/watch?v=rH3zE7VlIMs)
-# Git by Prime
+# Git 1 by Prime
 ## Setup
 ### Porcelain and Plumbing
 **porcelain** is the high level commands in git, you are will interact with them most of the  time
@@ -148,8 +148,8 @@ created a new branch, made some commits in this new branch and the main one, aft
 
 ## When to rebase
 Do it or do merges as you want
-# Resetting
-## undo changes
+## Resetting
+### undo changes
 in this we will go back in commit history without discarding changes
 ### Git reset
 is a command that can be used to undo the last commits
@@ -158,26 +158,26 @@ using `git reset --soft <POSITION>` will bring you to old commit with all change
 
 using `git reset --hard <POSTION>` will reset the changes
 
-# Remote work
+## Remote work
 when you are working with coworkers, you are often to use a remote repo as you trust repo, this repo will have the latest version of accepted code, this remote repo can be any repository (online or offline),.
 
 when you and your coworkers trust this repo on your code, you may call id **Origin**.
 
 you can add remote repo using `git remote add <repo name> <repo uri>`
-## Fetching
+### Fetching
 to grab the changes done to a repo you may use `fetch`  it brings all the changes without updating any thing, it is like downloading without installing
 
 after you fetch, you may check the changes using `git log <remote repo name>/<branch>`, then you can merge them using `git merge <remote repo name>/<branch>`
 
-## Pushing
+### Pushing
 you must at some point push your changes to the remote repo, so your friends can see it.
 
 use `git push <repo name>/<branch>` to push your changes
 
-## Pulling
+### Pulling
 this thing does the fetch and merge automatically `git fetch <repo name>/<branch>`
 
-# Gitignore
+## Gitignore
 is a file that allows you to specify a file or class of files to make git ignore, you can create a file in each directory to make the ignores local to the file, and it accepts symbols, like
 ```
 * wildcard symbol
@@ -192,7 +192,7 @@ is a file that allows you to specify a file or class of files to make git ignore
 
 ### `.git/info/execlude` 
 this file is like gitignore but local to your repo, means it will not be pushed to the remote rebo to you coworkers
-# Git 2
+# Git 2 by Prime
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
