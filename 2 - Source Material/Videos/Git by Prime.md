@@ -177,7 +177,8 @@ use `git push <repo name>/<branch>` to push your changes
 ## Pulling
 this thing does the fetch and merge automatically `git fetch <repo name>/<branch>`
 
-####
+# Gitignore
+is a file that allows you to specify a file or class of files to make git ignore
 
 
 # Appendix
