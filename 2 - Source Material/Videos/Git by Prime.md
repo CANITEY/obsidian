@@ -216,6 +216,8 @@ is a copy from a repo that you can get and modify without harming the original r
 ## Reflog
 this command makes you show more info about your log, even the reset commits, and with git plumbing you can get your shit back, if you have deleted something this doesn't mean it all gone, you can use `reflog` and `cat-file` to get the files you deleted
 
+or you can merge the commit before you delete the file
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
