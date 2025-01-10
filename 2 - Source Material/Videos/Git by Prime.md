@@ -185,9 +185,9 @@ is a file that allows you to specify a file or class of files to make git ignore
 ! this execludes from the ignore, EXAMPLE
 	```
 	*.txt
-	!importa
+	!important.txt
 	```
-	
+
 ```
 
 ### `.git/info/execlude` 
