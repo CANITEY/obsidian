@@ -213,7 +213,8 @@ is a copy from a repo that you can get and modify without harming the original r
 
 **TIP** when you clone a forked repo, add a remote to the main repo so you pull from it in case of updates
 
-## Re
+## Reflog
+this command makes you show more info about your log, even the reset commits, and with git plumbing you can get your shit back
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
