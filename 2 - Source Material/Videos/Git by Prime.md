@@ -209,7 +209,7 @@ is a copy from a repo that you can get and modify without harming the original r
 2. clone your forked repo
 3. make changes to your repo
 4. push changes to your repo
-5. open a pull request to the main repo explaining your changes
+5. open a pull request to the main repo explaining your changes, with details
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
