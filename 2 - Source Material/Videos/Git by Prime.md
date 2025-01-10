@@ -182,6 +182,12 @@ is a file that allows you to specify a file or class of files to make git ignore
 ```
 * wildcard symbol
 / means the root of the gitignore file
+! this execludes from the ignore, EXAMPLE
+	```
+	*.txt
+	!importa
+	```
+	
 ```
 
 ### `.git/info/execlude` 
