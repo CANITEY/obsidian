@@ -194,7 +194,9 @@ is a file that allows you to specify a file or class of files to make git ignore
 this file is like gitignore but local to your repo, means it will not be pushed to the remote rebo to you coworkers
 # Git 2 by Prime
 ## Amending commits
-`git commit --amend` This command will get the last commit and allow you to change the co
+`git commit --amend` This command will get the last commit and allow you to change the commit message, 
+
+If you have staged files it will allow you to add these staged files into your last com
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
