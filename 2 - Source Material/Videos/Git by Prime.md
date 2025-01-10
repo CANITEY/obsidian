@@ -178,7 +178,10 @@ use `git push <repo name>/<branch>` to push your changes
 this thing does the fetch and merge automatically `git fetch <repo name>/<branch>`
 
 # Gitignore
-is a file that allows you to specify a file or class of files to make git ignore, you can create a file in each directory to make the ignores local to the fil
+is a file that allows you to specify a file or class of files to make git ignore, you can create a file in each directory to make the ignores local to the file
+
+### `.git/info/execlude` 
+this file is like gitignore but local to your repo, means it will not be pushed to the remote rebo to you coworkers
 
 
 # Appendix
