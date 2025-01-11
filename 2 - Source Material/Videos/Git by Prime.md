@@ -252,10 +252,12 @@ git stashing is like a pocket, you can put the current stage in your working dir
 ```
 git stash -> stash
 git stash list -> to list all your stashes
-git stash pop -> will get the last stash and apply it to the *current* working directory
+git stash pop -> will remove the last stash and apply it to the *current* working directory
+git stash apply -> is like stash pop but it will keep the last stash
+git stash drop -> will remove the last stash only
 ```
 
-stash stores stashed as a 
+stash stores stashed as a stack
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
