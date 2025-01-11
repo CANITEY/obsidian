@@ -267,8 +267,10 @@ if reset is a devil, revert is an angel. It re-apply commits from history not be
 ## Diffs
 `git diff` shows you the diff between anything that can be mentioned (files, commitish)
 ```
-git diff -> show the change between the current working tree, and the last 
+git diff -> show the change between the current working tree, and the last commit
 ```
+
+## When to reset/revert that is the qu
 
 
 # Appendix
