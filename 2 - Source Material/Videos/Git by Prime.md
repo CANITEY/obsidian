@@ -231,7 +231,7 @@ when you create a conflict in rebase, you can solve the conflict as you solved i
 **DON'T** merge/commit in rebasing, do a `rebase --continue` if you did that by mistake you reset before that commit `git reset --soft HEAD~1`
 
 ## Squashing
-squashing is the process of grouping more than one commit into one commit
+squashing is the process of grouping more than one commit into one commit, this will keep your history clean and makes you have a concise c
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
