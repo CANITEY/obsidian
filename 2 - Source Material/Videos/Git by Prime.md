@@ -262,6 +262,7 @@ git stash drop -> will remove the last stash only
 stash stores stashed as a stack
 
 ## Reverts
+if reset is a devil, revert is an angel. It re-apply commits from history not be removing commits till we reach it, but by creating a new commit with the changes of the previous commit
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
