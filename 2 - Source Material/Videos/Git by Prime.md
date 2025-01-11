@@ -275,6 +275,8 @@ git diff -> show the change between the current working tree, and the last commi
 **revert** when you want to respect your coworkers
 
 ## Cherry pick
+- [p]
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
