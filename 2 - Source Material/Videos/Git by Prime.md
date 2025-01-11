@@ -254,8 +254,7 @@ git stash -> stash
 git stash list -> to list all your stashes
 git stash pop -> will remove the last stash and apply it to the *current* working directory
 
-
-both these commands can have an index to apply or drop, using stash@{N} as an argume
+### both these commands can have an index to apply or drop, using stash@{N} as an argument
 git stash apply -> is like stash pop but it will keep the last stash
 git stash drop -> will remove the last stash only
 ```
