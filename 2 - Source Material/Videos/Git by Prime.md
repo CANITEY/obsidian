@@ -277,7 +277,8 @@ git diff -> show the change between the current working tree, and the last commi
 ## Cherry pick
 allows you to choose a commit from a list of commits to add to another branch, to do that you be in the branch you want then you `git cherry-pick <commitish>`
 
-## Bi
+## Bisect
+it searches in your commits using binary 
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
