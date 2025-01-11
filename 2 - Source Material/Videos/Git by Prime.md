@@ -240,6 +240,9 @@ A-B-C-D-E-F <- HEAD
 using git rebase -i HEAD~3 will group [F..D] for squashing
 ```
 
+then you can choose to 
+`pick` to pick the commit to keep
+`squash` when you flag commits as squash, it will combine them into the pick commit
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
