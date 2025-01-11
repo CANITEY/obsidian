@@ -233,7 +233,14 @@ when you create a conflict in rebase, you can solve the conflict as you solved i
 ## Squashing
 squashing is the process of grouping more than one commit into one commit, this will keep your history clean and makes you have a concise commits
 
-squashing is done using rebase comman
+squashing is done using rebase command use `git rebase -i HEAD~n` where n is the commit you want to squash into EX
+```
+A-B-C-D-E-F <- HEAD
+
+using git rebase -i HEAD~3 will group [F..D] for squashing
+```
+
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
