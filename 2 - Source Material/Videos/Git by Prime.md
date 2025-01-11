@@ -246,6 +246,7 @@ then you can choose to
 
 ##### Squashing is scary it will delete all individual commits because you merge them into one commit, but you can still go back and git you shit using plumbing and `git reflog & git commit`
 
+## Stash
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
