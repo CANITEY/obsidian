@@ -261,7 +261,7 @@ git stash drop -> will remove the last stash only
 
 stash stores stashed as a stack
 
-## Revert
+## Reverts
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
