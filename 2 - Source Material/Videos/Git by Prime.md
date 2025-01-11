@@ -274,7 +274,7 @@ git diff -> show the change between the current working tree, and the last commi
 **reset** when you work at your own changes nothing public until the moment you decide to reset
 **revert** when you want to respect your coworkers
 
-
+## Cherry pick
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
