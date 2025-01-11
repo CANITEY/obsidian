@@ -228,6 +228,7 @@ when working on more than one branch, when merging conflicts merge the main to y
 
 ## Rebase conflicts
 when you create a conflict in rebase, you can solve the conflict as you solved in merge but after you add the file you run `git rebase --continue`
+**DON'T** merge/commit in rebasing, do a `rebase --continue` if you did that by mistake you reset before that commit `git reset --soft HEAD~1`
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
