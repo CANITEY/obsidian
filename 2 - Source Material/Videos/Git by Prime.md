@@ -224,8 +224,10 @@ conflicts happens when some changes happens on the same line on the same time, w
 
 git will warn you about the conflict, where are they, and you can show these info using `git status`, fix the conflict and then you add them and commit,
 
-when working on more than one branch, when merging conflicts merge the main to your branch (checkout to your branch then run `git merge main`), then you checkout to main and merge 
+when working on more than one branch, when merging conflicts merge the main to your branch (checkout to your branch then run `git merge main`), then you checkout to main and merge your branch
 
+## Rebase conflicts
+when you create a conflict in rebase, you can solve the conflict as you solved in merge but after you add the file you run `git rebase --continue`
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
