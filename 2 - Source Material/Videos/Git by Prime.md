@@ -247,7 +247,12 @@ then you can choose to
 ##### Squashing is scary it will delete all individual commits because you merge them into one commit, but you can still go back and git you shit using plumbing and `git reflog & git commit`
 
 ## Stash
-git stashing is like a pocket, you can put the current stage in your working directory for later to get it out of your pock
+git stashing is like a pocket, you can put the current stage in your working directory for later to get it out of your pocket
+
+```
+git stash -> stash
+git stash list -> to list all your s
+```
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
