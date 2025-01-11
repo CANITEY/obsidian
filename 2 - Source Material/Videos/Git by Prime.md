@@ -264,6 +264,9 @@ stash stores stashed as a stack
 ## Reverts
 if reset is a devil, revert is an angel. It re-apply commits from history not be removing commits till we reach it, but by creating a new commit with the changes of the previous commit, keeping the history intact with no change. Revert may create conflicts, resolve them as well
 
+## Diffs
+`git diff` shows you the diff between anything that can be mentione
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
