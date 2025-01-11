@@ -220,7 +220,7 @@ or you can merge the commit before you delete the file, by using the comittish f
 
 ## Conflicts
 **PAUSED**
-conflicts happens when some changes happens on the same line on the same time, when one commit is the parent of the other
+conflicts happens when some changes happens on the same line on the same time, when one commit is the parent of the other, git doesn't know how to do so we need to help it figure
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
