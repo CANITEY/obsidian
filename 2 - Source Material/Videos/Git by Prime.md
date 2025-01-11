@@ -244,6 +244,8 @@ then you can choose to
 `pick` to pick the commit to keep
 `squash` when you flag commits as squash, it will combine them into the pick commit
 
+#### Squashing is scary it will delete all individual commits because you merge them into one commit, but you can still go back and git you shit using plumbing and `git reflog & git com`
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
