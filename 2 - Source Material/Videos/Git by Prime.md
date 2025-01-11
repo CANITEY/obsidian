@@ -270,7 +270,9 @@ if reset is a devil, revert is an angel. It re-apply commits from history not be
 git diff -> show the change between the current working tree, and the last commit
 ```
 
-## When to reset/revert that is the qu
+## When to reset/revert that is the question
+**reset** when you work at your own changes nothing public until the moment you decide to reset
+**revert** when you want to respect your coworkers
 
 
 # Appendix
