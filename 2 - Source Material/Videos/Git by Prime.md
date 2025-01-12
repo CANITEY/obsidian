@@ -317,7 +317,7 @@ git worktree prune # it will remove all prunable worktrees
 
 ### Commands
 ```
-git t
+git tag # lists l
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
