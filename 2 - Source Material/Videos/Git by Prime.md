@@ -281,6 +281,8 @@ allows you to choose a commit from a list of commits to add to another branch, t
 it searches in your commits using binary search to search for a bug or some code you want, by setting a start commit and end commit. It will put you in the commit in the middle of them to and you read the code in the commit, if you found your desired code added you go left that middle commit until you find the commit where you added the code, if you didn't find it in the middle commit, you go right
 *Above is only an example, be flexible while using bisect*
 
+To do a bisect you first start the bisect `git bisect start`
+
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
