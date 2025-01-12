@@ -311,6 +311,8 @@ git worktree remove <worktree name> # this will remove the worktree
 #### You also can delete the worktree directory, when doing that and use `git worktree list` git will tell you that it is prunable, then use
 git worktree prune # it will remove all prunable worktrees
 ```
+
+## 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
