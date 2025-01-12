@@ -313,11 +313,11 @@ git worktree prune # it will remove all prunable worktrees
 ```
 
 ## Tags
-
+are immutable pointer to a commit, when means you can't change tags
 
 ### Commands
 ```
-git tag # lists l
+git tag # lists all tags
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
