@@ -288,12 +288,13 @@ To do a bisect you first
 4. execute `git bisect good` or `git bisect bad` depending on your situation
 5. when you find what you want use `git bisect reset`
 
-you can automate this process by a shell script and make bisect run it using `git bisect run ./script.sh`, a script may be in this format
+you can automate this process by a shell script and make bisect run it using `git bisect run ./script.sh`, after you go through steps from 1..3. A script may be in this format
 ```bash
 if grep -q "yourFlag" "your/target/file/having/a/bug"; then
 	exit 1 # this means bad
 else
 	exit 0 # this means good
+fi
 ```
 
 # Appendix
