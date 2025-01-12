@@ -312,7 +312,13 @@ git worktree remove <worktree name> # this will remove the worktree
 git worktree prune # it will remove all prunable worktrees
 ```
 
-## 
+## Tags
+
+
+### Commands
+```
+git t
+```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
