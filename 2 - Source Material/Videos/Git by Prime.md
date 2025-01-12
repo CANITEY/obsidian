@@ -313,12 +313,12 @@ git worktree prune # it will remove all prunable worktrees
 ```
 
 ## Tags
-are immutable pointer to a commit, when means you can't change tags' data
+are immutable pointer to a commit, when means you can't change tags' data. Use tags to point to version relea
 
 ### Commands
 ```
 git tag # lists all tags
-git tag -a <tag name> -m <tag message> # creates a tag with name and message you pro
+git tag -a <tag name> -m <tag message> # creates a tag with name and message you provide
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
