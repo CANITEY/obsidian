@@ -284,7 +284,9 @@ it searches in your commits using binary search to search for a bug or some code
 To do a bisect you first 
 1. start the bisect `git bisect start`
 2. select the good commit `git bisect good <commitish>`
-3. select the bad commit `git bisect bad <commi`
+3. select the bad commit `git bisect bad <commitish>`
+4. execute `git bisect good` or `git bisect bad` depending on your situation
+5. when you find what you want use `git bisect re`
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
