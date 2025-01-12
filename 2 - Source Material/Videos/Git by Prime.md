@@ -307,6 +307,9 @@ when you create a worktree, it is like a branch but the difference that you can 
 git worktree list # lists all working tree created
 git worktree add <path to your new repo> <branch> # adds a new worktree at the path you provide with the name of branch you provide
 git worktree remove <worktree name> # this will remove the worktree
+
+#### You also can delete the worktree directory, when doing that and use `git worktree list` git will tell you that it is prunable, then use
+git worktree p
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
