@@ -319,6 +319,7 @@ are immutable pointer to a commit, when means you can't change tags' data. Use t
 ```
 git tag # lists all tags
 git tag -a <tag name> -m <tag message> # creates a tag with name and message you provide
+git push --tag # then you push tags to remote, to release a
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
