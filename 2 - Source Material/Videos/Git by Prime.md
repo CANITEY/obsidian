@@ -297,7 +297,8 @@ else
 fi
 ```
 
-## Worki
+## Worktrees
+working tree (working directory) is a directory on file system that where your code that git tracks live
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
