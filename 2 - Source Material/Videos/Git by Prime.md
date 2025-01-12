@@ -305,7 +305,7 @@ when you create a worktree, it is like a branch but the difference that you can 
 ### Commands
 ```
 git worktree list # lists all working tree created
-git worktree add <path to your new repo> <branch> # adds a new worktree at the path you provide with the name of branch 
+git worktree add <path to your new repo> <branch> # adds a new worktree at the path you provide with the name of branch you provide
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
