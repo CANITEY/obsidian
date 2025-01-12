@@ -301,10 +301,11 @@ fi
 working tree (working directory) is a directory on file system that where your code that git tracks live.
 It contains *Tracked file*, *untracked files*, *modified files*.
 
-when you create a worktree, it is like a branch but the difference that you can make all changes you want while still linked to main branch and main repo, on the other hand branch makes you create a new branch of the same repo. Think of worktree as you cloned the repo again, branch as you at 
+when you create a worktree, it is like a branch but the difference that you can make all changes you want while still linked to main branch and main repo, on the other hand branch makes you create a new branch of the same repo. Think of worktree as you cloned the repo again, branch as you at the same repo
 ### Commands
 ```
 git worktree list # lists all working tree created
+git worktree add <path to your new repo> <branch> # adds a new worktree at the path you provide with the name of branch 
 ```
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
