@@ -286,7 +286,9 @@ To do a bisect you first
 2. select the good commit `git bisect good <commitish>`
 3. select the bad commit `git bisect bad <commitish>`
 4. execute `git bisect good` or `git bisect bad` depending on your situation
-5. when you find what you want use `git bisect re`
+5. when you find what you want use `git bisect reset`
+
+you can automate this process by a shell script and make bisect run it using `git bisect run ./scripth`
 
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
