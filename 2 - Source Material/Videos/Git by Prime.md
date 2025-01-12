@@ -298,7 +298,8 @@ fi
 ```
 
 ## Worktrees
-working tree (working directory) is a directory on file system that where your code that git tracks live
+working tree (working directory) is a directory on file system that where your code that git tracks live.
+It contains *Tracked file*, *untracked files*, *modified*
 # Appendix
 *pointer*, is where you are standing (HEAD, or somewhere else) ^5b1ad8
 
