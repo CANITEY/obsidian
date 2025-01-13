@@ -20,7 +20,16 @@ any of the upper files is not required for git to work, but you need to set them
 
 
 # Operations
-These operations are used with one flag of the flags mentioned above
+These operations are used with one flag of the flags mentioned above.
+###### get property value
+`git config --get <property name>`
+###### set property value
+`git config --set <property name> <value>`
+###### list properties and their values
+`git config --list`
+###### unset property value
+`git config unset <property name>`
+
 
 # References
 [[Git by Prime]]
