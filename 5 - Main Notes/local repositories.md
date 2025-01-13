@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - GIT
 date: 2025-01-13 12:01
 ---
 Local repositories are repositories being used for your *local* usage, they may be on your local machine mostly or on (cloud but the key characteristic about it is that you are the only one that can access and modify it).
@@ -17,7 +18,7 @@ To create a local repository on your machine you can use `git init` as simple as
 ```
 
 # Remove a local branch
-you can do that simply by removing the `.git` directory at the root of your repo
+you can do that simply by removing the `.git` directory at the root of your repository
 
 # References
 - [[Git by Prime]]

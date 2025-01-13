@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,11 +289,11 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "2c400bd22e35afc8",
+  "active": "869573e88d05f663",
   "lastOpenFiles": [
+    "5 - Main Notes/local repositories.md",
     "5 - Main Notes/Git ?.md",
     "5 - Main Notes/remote repositories.md",
-    "5 - Main Notes/local repositories.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "7 - Status/st-new.md",
