@@ -1,0 +1,23 @@
+{
+  "randomInstances": [
+    {
+      "name": "All",
+      "includePaths": "/, ",
+      "excludePaths": "3 - Indexes, 4 - Templates, 6 - Attachments, 8 - Tags, ",
+      "openOnStartup": true,
+      "useTags": false,
+      "tags": "",
+      "allTagsRequired": true,
+      "isTabOpen": true,
+      "commandID": "open-random-note-from-All"
+    }
+  ],
+  "nextRandomNotesDay": "13/0/2025",
+  "timeToResetDailyRandomNotes": [
+    13,
+    0
+  ],
+  "previousCommandIDs": [
+    "open-random-note-from-All"
+  ]
+}

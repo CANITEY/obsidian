@@ -1,4 +1,5 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-flamingo"
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-flamingo",
+  "primary-theme@@ribbon_styles": "ribbon-slideout"
 }
