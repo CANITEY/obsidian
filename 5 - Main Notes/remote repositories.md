@@ -12,6 +12,8 @@ you can get a remote repository be cloning it into your local machine, you can d
 # Add a remote repository
 the difference between adding a remote repository and cloning one, is that in adding process you act as a direct contribute or owner of the repo, you can make changes on [[local repositories|local repository]] and [[Git - push|push]] them to the remote repository
 
+to do so you can use `git remote add <a name for your remote repo> <uri>` again the *URL* can be a remote resource or a local one
+
 # Commands
 ```
 git clone <url>
