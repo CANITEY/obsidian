@@ -248,13 +248,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,14 +270,14 @@
   },
   "active": "91134decab463773",
   "lastOpenFiles": [
-    "4 - Templates/Main Note.md",
+    "5 - Main Notes/Git - Porcelain and Plumbing.md",
     "5 - Main Notes/Git - History.md",
+    "4 - Templates/Main Note.md",
     "5 - Main Notes/Git - config.md",
     "5 - Main Notes/Git - Commits.md",
     "5 - Main Notes/Git - Staging.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Git - Files status.md",
-    "5 - Main Notes/Git - Porcelain and Plumbing.md",
     "9 - Dictionary/Git - Dictionary.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "9 - Dictionary",
