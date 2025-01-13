@@ -20,6 +20,7 @@ any of the upper files is not required for git to work, but you need to set them
 
 
 # Operations
+These operations are used with one flag of the flags mentioned above
 
 # References
 [[Git by Prime]]
