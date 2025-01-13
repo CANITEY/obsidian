@@ -41,8 +41,9 @@ These operations are used with one flag of the flags mentioned above.
 ###### list properties and their values
 `git config --list`
 ###### unset property value
-`git config unset <property name>`
-
+`git config --unset <property name>`
+###### remove entire section
+`git config --remove-section <section>`
 
 # References
 [[Git by Prime]]
