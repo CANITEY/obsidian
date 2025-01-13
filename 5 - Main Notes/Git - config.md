@@ -30,6 +30,8 @@ config files follow a certain structure. This makes the config file consists of 
 
 Where every property is referred to by it section name, and its actual name, in this syntax `<section>.<name>`
 
+so when using any of the [[#operations]] mentioned below, the property name will be in the syntax mentioned above
+
 # Operations
 These operations are used with one flag of the flags mentioned above.
 ###### get property value
