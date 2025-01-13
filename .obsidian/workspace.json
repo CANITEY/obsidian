@@ -171,17 +171,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/local repositories.md",
+                "file": "5 - Main Notes/Git - Files status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for local repositories"
+              "title": "Backlinks for Git - Files status"
             }
           },
           {
@@ -190,11 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 - Main Notes/Git - Files status.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Git - Files status"
             }
           },
           {
@@ -220,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +241,7 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "9c6da3c2a63a23f4",
+  "active": "56b14a77303f5355",
   "lastOpenFiles": [
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Git - Porcelain and Plumbing.md",
