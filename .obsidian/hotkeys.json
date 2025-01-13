@@ -1,13 +1,4 @@
 {
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -22,6 +13,24 @@
         "Mod"
       ],
       "key": "Q"
+    }
+  ],
+  "editor:save-file": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }
