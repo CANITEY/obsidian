@@ -21,6 +21,7 @@ To create a local repository on your machine you can use `git init` as simple as
 # Remove a local repository
 you can do that simply by removing the `.git` directory at the root of your repository
 
-
+# Operations
+operation won't be mentioned here because they are so many and every one of them needs a good explaining
 # References
 - [[Git by Prime]]
