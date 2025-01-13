@@ -18,6 +18,17 @@ Your configuration can be through multiple levels, I'll order them with the firs
 
 any of the upper files is not required for git to work, but you need to set them
 
+# Anatomy of config file
+config files follow a certain structure. This makes the config file consists of 2 main identifiers: section, and property name, they are presented in that manner
+```
+[section]
+	property_name = property_value
+	filemode = true
+	bare = false
+	logallrefupdates = true
+```
+
+Where every property is referred to by it section name, and its actual name, in this syntax `<section>.<name>`
 
 # Operations
 These operations are used with one flag of the flags mentioned above.
