@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 - Dictionary/Git - Dic.md",
+                "file": "9 - Dictionary/Git - Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - Dic"
+              "title": "Git - Dictionary"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Git - Commits.md",
+                "file": "9 - Dictionary/Git - Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git - Commits"
+              "title": "Backlinks for Git - Dictionary"
             }
           },
           {
@@ -205,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Main Notes/Git - Commits.md",
+                "file": "9 - Dictionary/Git - Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git - Commits"
+              "title": "Outgoing links from Git - Dictionary"
             }
           },
           {
@@ -256,12 +256,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "e235933cd9c07f6d",
+  "active": "1534af008871d153",
   "lastOpenFiles": [
+    "5 - Main Notes/Git - Commits.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
     "5 - Main Notes/Git - Staging.md",
-    "5 - Main Notes/Git - Commits.md",
-    "9 - Dictionary/Git - Dic.md",
+    "9 - Dictionary/Git - Dictionary.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "9 - Dictionary",
     "5 - Main Notes/Git - Files status.md",
