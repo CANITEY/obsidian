@@ -11,7 +11,7 @@ this status is given to new files create but git didn't track them before, if an
 ###### tracked
 this status is given to file that you added them to git worktree using `git add` command to make them tracked **NOT STAGED**, git will keep track of these files, will know if any changes happened to these files (addition, deletion, rename, deletion) and will offer you a [[Git - diff|diff]] that shows you the file before and after modifications
 ###### staged
-this status is given to tracked files that were modified and git logged the modification occurred 
+this status is given to tracked files that were modified and git logged the modification occurred on them.
 
 # References
 [[Git by Prime]]
