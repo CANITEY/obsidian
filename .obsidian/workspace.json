@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/local repositories.md",
+                "file": "4 - Templates/Main Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local repositories"
+              "title": "Main Note"
             }
           },
           {
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -289,8 +289,11 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "869573e88d05f663",
+  "active": "2c400bd22e35afc8",
   "lastOpenFiles": [
+    "4 - Templates/Source Material.md",
+    "4 - Templates/Main Note.md",
+    "4 - Templates/Index.md",
     "5 - Main Notes/local repositories.md",
     "5 - Main Notes/Git ?.md",
     "5 - Main Notes/remote repositories.md",
@@ -302,9 +305,6 @@
     "5 - Main Notes/Emails gathering.md",
     "1 - Rough Notes/0 - RTFM.md",
     "2 - Source Material/Articles/Recon by Omar Abu-Zekri.md",
-    "4 - Templates/Index.md",
-    "4 - Templates/Source Material.md",
-    "4 - Templates/Main Note.md",
     "4 - Templates/Tool.md",
     "3 - Indexes/Cyber security.md",
     "5 - Main Notes/Gobuster.md",
