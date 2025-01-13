@@ -11,9 +11,13 @@ Commits saves the whole tracked files not just the staged ones, but for not stag
 all committing operation are done in case of having [[Git - Staging|staged]] files, if no files are staged, it will automatically stage all [[Git - Files status#tracked|tracked]] files and commit them
 ###### committing
 to commit you can use `git commit` after that an editor will open up default editor to add commit message.
-**COMMIT MESSAGES ARE NECESSARY AND THE COMMIT WILL NOT PROCEED WITHOUT IT* 
+**COMMIT MESSAGES ARE NECESSARY AND THE COMMIT WILL NOT PROCEED WITHOUT IT**
+
+Make commit messages descriptive with a short title, and verbose message why, and what have you modified
 
 NOTE: editor is specified through [[Git - config]] under the `core.editor` name.
+
+you can add short commit message through cli, using `git commit -m "<message>`.
 
 
 # References
