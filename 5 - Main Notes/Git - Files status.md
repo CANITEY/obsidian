@@ -2,7 +2,7 @@
 tags: 
 date: 2025-01-13 14:06
 ---
-# [[Git]] - Files status
+# Git - Files status
 In your working directory, files and all contents of the repository.
 
 Files can have several status:
