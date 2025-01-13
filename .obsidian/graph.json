@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"9 - Dictionary\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"2 - Source Material\"  ",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#Dictionary  ",
+      "color": {
+        "a": 1,
+        "rgb": 3904512
+      }
     }
   ],
   "collapse-display": true,
@@ -34,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.332,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.199109461966605,
   "repelStrength": 17.473840445269,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5637269437509161,
+  "scale": 0.1047271882080586,
   "close": false
 }
