@@ -6,7 +6,7 @@ date: 2025-01-13 12:18
 # Remote repositories
 Remote repositories are repositories that can be on your *local* device or one some *cloud* platform, it may be shared between you and your coworkers, it will be used a deposit for your code, all your codes will be there for all of you to see it, add to it, modify, and eventually use all what you have done as a release
 
-# Get a remote repository
+# Clone a remote repository
 you can get a remote repository be cloning it into your local machine, you can do that using `git clone <uri>`, *URL* can be a remote resource (github http repository link, username@host format `git@github.com:CANITEY/obsidian.git`) or can be a local path from already existing repo on your machine.
 
 # Add a remote repository
@@ -14,6 +14,8 @@ the difference between adding a remote repository and cloning one, is that in ad
 
 to do so you can use `git remote add <a name for your remote repo> <uri>` again the *URL* can be a remote resource or a local ones
 
+
+# Remote a remote repository 
 # Remote operations
 - [[Git - push]]
 - [[Git - clone]]
@@ -21,8 +23,10 @@ to do so you can use `git remote add <a name for your remote repo> <uri>` again 
 - [[Git - pull]]
 # Commands
 ```
-git clone <uri>
-git remote add <remote repo name> <uri>
+git clone <uri> # clones a repository
+git remote # lists all remote resources
+git remote -v # lists all remote resources including their URL and allowed operations
+git remote add <remote repo name> <uri> # adds remote repository as a resource
 ```
 
 # References
