@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/remote repositories.md",
+                "file": "5 - Main Notes/Git ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "remote repositories"
+              "title": "Git ?"
             }
           },
           {
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/remote repositories.md",
+                "file": "5 - Main Notes/Git ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for remote repositories"
+              "title": "Backlinks for Git ?"
             }
           },
           {
@@ -222,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/remote repositories.md"
+                "file": "5 - Main Notes/Git ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of remote repositories"
+              "title": "Outline of Git ?"
             }
           },
           {
@@ -263,8 +263,8 @@
   },
   "active": "869573e88d05f663",
   "lastOpenFiles": [
-    "5 - Main Notes/Git ?.md",
     "5 - Main Notes/remote repositories.md",
+    "5 - Main Notes/Git ?.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "7 - Status/st-new.md",
