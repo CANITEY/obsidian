@@ -31,7 +31,7 @@ to rename a remote resource use `git remote rename <old name> <new name>`
 - [[Git - fetch]]
 - [[Git - pull]]
 
-# Commands
+# Important commands
 ```
 git clone <uri> # clones a repository
 git remote # lists all remote resources
