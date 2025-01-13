@@ -3,7 +3,7 @@ tags:
   - GIT
 date: 2025-01-13 13:32
 ---
-# Git - config
+# [[Git]] - config
 Configuring your repository is essential for a good, clear, comfortable workflow. 
 
 # Config layers
@@ -45,5 +45,23 @@ These operations are used with one flag of the flags mentioned above.
 ###### remove entire section
 `git config --remove-section <section>`
 
+# My global git config
+```
+[credential "https://github.com"]
+        helper =
+        helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+        helper =
+        helper = !/usr/bin/gh auth git-credential
+[user]
+        email = mohamedmed01345@gmail.com
+        name = canitey
+[core]
+        editor = nvim
+[http]
+        version = HTTP/1.1
+[init]
+        defaultBranch = main
+```
 # References
 [[Git by Prime]]

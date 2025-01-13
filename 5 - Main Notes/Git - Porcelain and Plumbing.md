@@ -3,7 +3,7 @@ tags:
   - GIT
 date: 2025-01-13 12:46
 ---
-# Git - Porcelain and Plumbing
+# [[Git]] - Porcelain and Plumbing
 Porcelain and plumbing in Git are words that describe high and low level commands that we can deal with
 
 # Porcelain

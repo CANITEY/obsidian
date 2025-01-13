@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:\"9 - Dictionary\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -46,6 +46,6 @@
   "repelStrength": 17.473840445269,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.30169932918163506,
-  "close": false
+  "scale": 0.6801321553000692,
+  "close": true
 }

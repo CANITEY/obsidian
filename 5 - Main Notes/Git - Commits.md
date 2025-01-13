@@ -17,7 +17,7 @@ Make commit messages descriptive with a short title, and verbose message why, an
 
 NOTE: editor is specified through [[Git - config]] under the `core.editor` name.
 
-you can add short commit message through cli, using `git commit -m "<message>`.
+you can add short commit message through CLI, using `git commit -m "<message>`.
 
 
 # References
