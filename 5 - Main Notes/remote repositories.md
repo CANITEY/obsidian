@@ -20,6 +20,10 @@ to remove a remote resource use `git remote remove <repo name>`
 # Rename a remote repository
 to rename a remote resource use `git remote rename <old name> <new name>`
 
+# Change URL for a remote repository
+`git remote set-url <name> <new url>`
+
+
 # Remote operations
 - [[Git - push]]
 - [[Git - clone]]
