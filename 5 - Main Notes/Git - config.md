@@ -10,7 +10,8 @@ Configuring your repository is essential for a good, clear, comfortable workflow
 2. global
    global config is applied to all repositories for a certain user, it can be found in `$HOME/.gitconfig`
 3. system wide
+   this will be applied to all repositories on the machine, will work for all users. Can be found in `/etc/gitconfig`
 
 
 # References
-[[prim]]
+[[Git by Prime]]
