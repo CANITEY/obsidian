@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Templates/Main Note.md",
+                "file": "5 - Main Notes/local repositories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Note"
+              "title": "local repositories"
             }
           },
           {
@@ -291,12 +291,12 @@
   },
   "active": "2c400bd22e35afc8",
   "lastOpenFiles": [
-    "4 - Templates/Source Material.md",
     "4 - Templates/Main Note.md",
+    "5 - Main Notes/remote repositories.md",
+    "4 - Templates/Source Material.md",
     "4 - Templates/Index.md",
     "5 - Main Notes/local repositories.md",
     "5 - Main Notes/Git ?.md",
-    "5 - Main Notes/remote repositories.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Active subdomain enumeration.md",
     "7 - Status/st-new.md",
