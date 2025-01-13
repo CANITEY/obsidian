@@ -10,6 +10,14 @@ Porcelain and plumbing in Git are words that describe high and low level command
 porcelain commands are the high level commands that we are likely to use more, these does useful operation like [[Git - Commits|committing]], [[Git - Reset|resetting]], [[Git - Revert|reverting]], and browsing [[Git - history]]
 
 ## Example porcelain
+- `git status`
+- `git add`
+- `git commit`
+- `git push`
+- `git pull`
+
+# Plumbing
+plumbing commands are low level commands that we won't use regularly, but they will come to great use when needed as will be described
 
 
 # References
