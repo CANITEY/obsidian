@@ -18,7 +18,7 @@ To create a local repository on your machine you can use `git init` as simple as
 -b : set initial branch name, github preferes main (default is master)
 ```
 
-# Remove a local branch
+# Remove a local repository
 you can do that simply by removing the `.git` directory at the root of your repository
 
 # References
