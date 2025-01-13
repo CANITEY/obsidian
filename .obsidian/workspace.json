@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.51103591918945
+    "width": 231.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f946f182d6b655ff",
@@ -284,7 +285,6 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false,
       "daily-random-note:Daily Random Note": false,
       "improved-random-note:Open improved random note": false
     }
