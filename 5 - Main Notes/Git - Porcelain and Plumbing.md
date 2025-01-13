@@ -18,7 +18,9 @@ porcelain commands are the high level commands that we are likely to use more, t
 
 # Plumbing
 plumbing commands are low level commands that we won't use regularly, but they will come to great use when needed as will be described
-
+- `git apply`
+- `git commit-tree`
+- `git hash-object`
 
 # References
 [[Git by Prime]]
