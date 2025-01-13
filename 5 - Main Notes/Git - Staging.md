@@ -12,6 +12,8 @@ NOTE: Staging a file, change its [[Git - Files status|status]] from being untrac
 # Commands
 ###### staging a file
 to stage a file or group of file you can add the file using `git add <file>`
+###### unstage a file
+to unstage a file or group of file you can use `git restore --staged <file>`
 
 # References
 - [[Git by Prime]]
