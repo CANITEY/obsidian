@@ -8,7 +8,7 @@ date: 2025-01-13 11:39
 
 Git saves your data as repositories, each repository has a `.git` directory that saves all your files and changes with each commit content, date, message, author being saved
 
-There are 2 main types of repositories (repos for short) [[local repositories]], and [[remote repositories]] both are used by a normal user but the difference is that the remote repository is being used as a global holding of your, and your team's code and changes
+There are 2 main types of repositories (repos for short) [[local repositories]], and [[remote repositories]] both are used by a normal user but the difference is that the remote repository is being used as a global holding of your, and your team's code and changes.
 # References
 - My understanding
 - [Git - Wikipedia](https://en.wikipedia.org/wiki/Git)
