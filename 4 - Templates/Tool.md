@@ -1,6 +1,5 @@
 ---
-tags:
-  - tool
+tags: []
 ---
 # Description
 
