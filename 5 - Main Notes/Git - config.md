@@ -6,7 +6,6 @@ date: 2025-01-13 13:32
 # Git - config
 Configuring your repository is essential for a good, clear, comfortable workflow. 
 
-
 # Config layers
 Your configuration can be through multiple levels, I'll order them with the first level has the highest priority
 1. local config
@@ -31,6 +30,7 @@ config files follow a certain structure. This makes the config file consists of 
 Where every property is referred to by it section name, and its actual name, in this syntax `<section>.<name>`
 
 so when using any of the [[#operations]] mentioned below, the property name will be in the syntax mentioned above.
+
 
 # Operations
 These operations are used with one flag of the flags mentioned above.
