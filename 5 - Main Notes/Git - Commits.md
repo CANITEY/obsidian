@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - GIT
+  - GIT/porcelain
 date: 2025-01-13 15:17
 ---
 # Git - Commits
