@@ -6,6 +6,7 @@
       {
         "id": "dfed0d86a22cda0e",
         "type": "tabs",
+        "dimension": 62.456946039035586,
         "children": [
           {
             "id": "d6bda9066a2eb896",
@@ -82,6 +83,7 @@
       {
         "id": "7daf49b5babc4c76",
         "type": "tabs",
+        "dimension": 37.54305396096441,
         "children": [
           {
             "id": "869573e88d05f663",
@@ -256,8 +258,8 @@
   "active": "e235933cd9c07f6d",
   "lastOpenFiles": [
     "2 - Source Material/Videos/Git by Prime.md",
-    "5 - Main Notes/Git.md",
     "5 - Main Notes/Git - Porcelain and Plumbing.md",
+    "5 - Main Notes/Git.md",
     "5 - Main Notes/local repositories.md",
     "5 - Main Notes/remote repositories.md",
     "3 - Indexes/Cyber security.md",
