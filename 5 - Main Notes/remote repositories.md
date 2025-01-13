@@ -14,13 +14,20 @@ the difference between adding a remote repository and cloning one, is that in ad
 
 to do so you can use `git remote add <a name for your remote repo> <uri>` again the *URL* can be a remote resource or a local ones
 
+# Remove a remote repository 
+to remove a remote resource use `git remote remove <repo name>`
 
-# Remote a remote repository 
+# Rename a remote repository
+to rename a remote resource use `git remote rename <old name> <new name>`
+
 # Remote operations
 - [[Git - push]]
 - [[Git - clone]]
 - [[Git - fetch]]
 - [[Git - pull]]
+
+
+
 # Commands
 ```
 git clone <uri> # clones a repository
