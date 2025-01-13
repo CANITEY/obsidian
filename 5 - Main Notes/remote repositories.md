@@ -9,7 +9,13 @@ Remote repositories are repositories that can be on your *local* device or one s
 # Get a remote repository
 you can get a remote repository be cloning it into your local machine, you can do that using `git clone <uri>`, *URL* can be a remote resource (github http repository link, username@host format `git@github.com:CANITEY/obsidian.git`) or can be a local path from already existing repo on your machine.
 
+# Add a remote repository
+the difference between adding a remote repository and cloning one, is that in adding process you act as a direct contribute or owner of the repo, you can make changes on [[local repositories|local repository]] and push them to the remote
 
+# Commands
+```
+git clone <url>
+```
 
 # References
 - [[Git by Prime]]
