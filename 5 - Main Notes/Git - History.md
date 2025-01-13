@@ -4,7 +4,7 @@ tags:
   - GIT/porcelain
 date: 2025-01-13 15:41
 ---
-# Git - log
+# Git - History
 
 
 

@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Git - log.md",
+                "file": "5 - Main Notes/Git - History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - log"
+              "title": "Git - History"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main Notes/Git - log.md",
+                "file": "5 - Main Notes/Git - History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git - log"
+              "title": "Backlinks for Git - History"
             }
           },
           {
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Main Notes/Git - log.md",
+                "file": "5 - Main Notes/Git - History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git - log"
+              "title": "Outgoing links from Git - History"
             }
           },
           {
@@ -272,10 +272,11 @@
   },
   "active": "91134decab463773",
   "lastOpenFiles": [
+    "4 - Templates/Main Note.md",
+    "5 - Main Notes/Git - History.md",
     "5 - Main Notes/Git - config.md",
     "5 - Main Notes/Git - Commits.md",
     "5 - Main Notes/Git - Staging.md",
-    "5 - Main Notes/Git - log.md",
     "2 - Source Material/Videos/Git by Prime.md",
     "5 - Main Notes/Git - Files status.md",
     "5 - Main Notes/Git - Porcelain and Plumbing.md",
@@ -289,7 +290,6 @@
     "5 - Main Notes/remote repositories.md",
     "3 - Indexes/Cyber security.md",
     "5 - Main Notes/tool.md",
-    "4 - Templates/Main Note.md",
     "4 - Templates/Source Material.md",
     "7 - Status/st-new.md",
     "5 - Main Notes/Subdomain enumeration.md",
