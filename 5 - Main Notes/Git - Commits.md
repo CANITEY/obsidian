@@ -9,7 +9,8 @@ Commits saves the whole tracked files not just the staged ones, but for not stag
 
 # Operations
 all committing operation are done in case of having [[Git - Staging|staged]] files, if no files are staged, it will automatically stage all [[Git - Files status#tracked|tracked]] files and commit them
-###### committing a file
+###### committing
+to commit you can use `git commit` after that an editor will open up default editor is specified through [[Git - config]] under the `core.editor` name.
 
 
 # References
