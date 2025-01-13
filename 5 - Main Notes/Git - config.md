@@ -12,6 +12,8 @@ Configuring your repository is essential for a good, clear, comfortable workflow
 3. system wide
    this will be applied to all repositories on the machine, will work for all users. Can be found in `/etc/gitconfig`
 
+any of the upper files is note required for git to work, but you need to set them
+
 
 # References
 [[Git by Prime]]
