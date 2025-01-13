@@ -6,6 +6,10 @@ date: 2025-01-13 12:18
 # Remote repositories
 Remote repositories are repositories that can be on your *local* device or one some *cloud* platform, it may be shared between you and your coworkers, it will be used a deposit for your code, all your codes will be there for all of you to see it, add to it, modify, and eventually use all what you have done as a release
 
+# Get a remote repository
+you can get a remote repository be cloning it into your local machine, you can do that using `git clone <uri>`, *URL* can be a remote resource (github http repository link, username@host format `git@github.com:CANITEY/obsidian.git`) or can be a local path from already existing repo on your machine.
+
+
 
 # References
 - [[Git by Prime]]

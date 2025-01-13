@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,11 +289,11 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "2c400bd22e35afc8",
+  "active": "3d91a9216a2c9a2d",
   "lastOpenFiles": [
+    "5 - Main Notes/local repositories.md",
     "5 - Main Notes/remote repositories.md",
     "5 - Main Notes/Git ?.md",
-    "5 - Main Notes/local repositories.md",
     "4 - Templates/Main Note.md",
     "4 - Templates/Source Material.md",
     "4 - Templates/Index.md",
