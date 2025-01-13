@@ -16,7 +16,7 @@ to do so you can use `git remote add <a name for your remote repo> <uri>` again 
 
 # Commands
 ```
-git clone <url>
+git clone <uri>
 git remote add <remote repo name> <uri>
 ```
 
